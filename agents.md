@@ -13,7 +13,7 @@ The goal is to identify implications that matter for:
 
 ## Core files
 - Daily notes: `notes/daily/`
-- Durable synthesis: `notes/synthesized-implications.md`
+- Durable synthesis: `notes/synthesized_implications.md`
 
 ## System
 This repository has two layers:

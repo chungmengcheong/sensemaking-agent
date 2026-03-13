@@ -1,10 +1,15 @@
-Read these files first:
+---
+name: synthesis-review
+description: Review and conservatively update notes/synthesized-implications.md after the daily notes have been updated. Use this when the task is to check whether recent daily evidence justifies strengthening, weakening, challenging, or promoting a durable implication. Do not use this skill for writing the daily Techmeme entry itself.
+---
+
+Read:
 - AGENTS.md
 - notes/synthesized-implications.md
 - the current monthly file in notes/daily/
 - recent adjacent daily notes files as needed for evidence
 
-Your task is to review and update notes/synthesized-implications.md conservatively.
+Review and update notes/synthesized-implications.md conservatively.
 
 This document is not a recap of daily news.
 It is the slower-moving synthesis layer for durable implications.
