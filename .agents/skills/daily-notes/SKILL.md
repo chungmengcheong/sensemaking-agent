@@ -5,34 +5,33 @@ description: Update the current monthly Techmeme daily notes file. Use this when
 
 Read:
 - AGENTS.md
-- notes/synthesized-implications.md, if it exists
+- notes/synthesized_implications.md, if it exists
 - the current monthly file in notes/daily/
 - recent adjacent daily notes files if useful
 
 Then review the current Techmeme front page.
 
-Update the daily notes only:
+Task:
 - append one new dated entry to the current monthly file in notes/daily/
 - do not rewrite prior entries except to fix an obvious formatting issue
-- follow the structure, hard caps, and judgment rules in AGENTS.md
+- do not update notes/synthesized_implications.md
 
-Additional guidance:
-- Be highly selective. Prefer fewer, sharper bullets over broad coverage.
-- If the synthesis file does not yet exist or is materially thin, rely primarily on recent daily notes and use Tentative / watchlist more often.
-- Do not force a market, startup, or product implication unless it is clearly supported.
-- Try to separate:
-  1. what happened
-  2. why it matters
-  3. what it may imply
-- For implied ideas, prioritize rigor, but you may include a small number of clearly labeled speculative ideas worth tracking if they are anchored in the day’s developments.
-- For startup and product ideas:
--- do a brief two-step process:
-  1. consider direct, second-order, and contrarian ideas
-  2. keep only the strongest few
--- prefer ideas that are non-obvious but still tightly linked to the observed developments
--- avoid generic wrappers and obvious copilot concepts unless they are unusually well-supported
+Follow AGENTS.md for:
+- structure
+- hard caps
+- style
+- labels
+- judgment rules
+- idea quality bar
+
+Run-specific reminders:
+- Be selective.
+- Prefer fewer, sharper bullets over broad coverage.
+- Write each bullet as a natural observation, not a filled-in template.
+- Put the signal label at the end of the bullet.
+- If the synthesis file is thin, rely more on recent daily notes and use `[Watch]` more often.
 
 At the end, provide a short changelog:
 - what was added
-- which points looked genuinely new, reinforcing, weakening, contradictory, or tentative
+- which points looked new, reinforcing, material, weakening, contradicting, or watchlist-level
 - whether anything looks important enough to consider for synthesis
