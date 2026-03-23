@@ -20,8 +20,6 @@ The system should be conservative about promotion, but not conservative about no
 ### 1. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if it becomes the context and harness layer for hybrid AI-human work.
 
 **Status:** Strengthening  
-**Confidence:** High  
-**Time horizon:** Near-term to medium-term
 
 **Why we believe this**
 
@@ -42,8 +40,6 @@ The core point is not just that AI helps software. It is that software is enteri
 - Adobe beat on revenue and announced a CEO transition, but the stock still fell. That suggests investors already care about whether mature software companies can turn AI into real workflow power, not just whether they can tell an AI story.
 
 **Evidence against**
-- General-purpose assistants continue to grow, but that does not yet prove that workflow owners will capture the durable value.
-- Some specialized tools may keep stronger retention than expected if they offer enough domain depth, trust, or embedded workflow.
 - The current daily notes still show more logic than hard company-level proof on which specific software names are actually getting squeezed.
 
 **Implications**
@@ -54,7 +50,6 @@ The core point is not just that AI helps software. It is that software is enteri
 
 - **Business / product strategy**
   - If you own a workflow, move fast to become the place where context, approvals, routing, and outputs live.
-  - If you are a thin productivity layer, assume you are in an existential fight, not just a feature race.
   - Product strategy should focus less on adding chat and more on turning AI into usable outputs inside a real work loop.
 
 - **Startup ideas**
@@ -66,8 +61,6 @@ The core point is not just that AI helps software. It is that software is enteri
 ### 2. AI transitions over-reward implementation first for about five years, then shift value to firms that own business outcomes. There is also a buy-and-transform opportunity in labor-heavy service businesses.
 
 **Status:** Strengthening  
-**Confidence:** Medium-High  
-**Time horizon:** Medium-term
 
 **Why we believe this**
 
@@ -92,7 +85,6 @@ In fragmented categories like tax prep, bookkeeping, compliance support, paraleg
 **Evidence against**
 - The current daily notes still do not show strong proof that implementation-heavy firms can hold onto the margin pool after the deployment wave.
 - There is not yet enough direct evidence in the notes that PE-style buy-and-transform roll-ups are working in practice rather than just looking attractive in theory.
-- Classic software vendors could still absorb more of the value directly than this hypothesis assumes.
 
 **Implications**
 
@@ -116,8 +108,6 @@ In fragmented categories like tax prep, bookkeeping, compliance support, paraleg
 ### 3. Demand for intelligence is far above supply. Frontier compute is strategic infrastructure, so allocation will be shaped by price, politics, and security risk.
 
 **Status:** Strengthening  
-**Confidence:** High  
-**Time horizon:** Near-term to medium-term
 
 **Why we believe this**
 
@@ -146,7 +136,7 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 **Evidence against**
 - The current daily notes do not yet show strong direct evidence that compute allocation is being shaped by politics as much as by economics, even if the logic is compelling.
 - There is not yet repeated direct evidence in the notes of sabotage or physical attacks specifically aimed at degrading AI compute infrastructure.
-- Efficiency gains and heterogeneous inference supply could ease some pressure faster than this hypothesis assumes.
+
 
 **Implications**
 
@@ -170,8 +160,6 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 ### 4. AI will increase cybercrime and make security more central because offense gets cheaper and agents expand the attack surface.
 
 **Status:** Strengthening  
-**Confidence:** Medium-High  
-**Time horizon:** Near-term to medium-term
 
 **Why we believe this**
 
@@ -229,37 +217,3 @@ The SEC/CFTC guidance appears important because it reduces classification uncert
 
 **Why it is not promoted yet**
 - The rule change looks important, but the next step is adoption. The market-structure implications are still too early to call.
-
-### B. There may be a growing short book in software names that look “AI-exposed” but are actually caught between horizontal LLMs and workflow owners
-
-**Why it might matter**
-
-If hypothesis #1 is right, many software companies could be squeezed from both sides:
-- horizontal LLMs commoditize their useful features
-- stronger workflow owners capture the context and control layer
-
-**Current evidence**
-- Adobe’s stock reaction despite a revenue beat supports the idea that investors are already distinguishing between generic AI positioning and true workflow power.
-- The daily notes increasingly support the idea that convergence is happening at the workflow level, not just at the feature level.
-
-**What is still missing**
-- More repeated company-level evidence identifying which names are actually losing pricing power, retention, or strategic relevance.
-
-**Why it is not promoted yet**
-- The logic is strong, but the candidate list is still too broad. It needs more repeated company-level evidence before becoming a stronger active view.
-
-### C. A PE-style roll-up of fragmented human service firms may become one of the best AI operating plays
-
-**Why it might matter**
-
-If implementation wins first and outcome ownership wins later, then buying fragmented labor-heavy service firms and turning them into AI-powered operators could be a strong strategy.
-
-**Current evidence**
-- The daily notes support the direction of travel: services firms are trying to turn labor into AI-enabled workflows, and pricing is beginning to move away from pure hourly billing.
-- The logic is strongest in repetitive, auditable, expensive service categories.
-
-**What is still missing**
-- More direct evidence that consolidation plus automation is already producing durable advantage in real categories.
-
-**Why it is not promoted yet**
-- The opportunity looks real, but the evidence is still more conceptual than proven in the current daily flow.
