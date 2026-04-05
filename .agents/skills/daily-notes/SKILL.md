@@ -1,6 +1,6 @@
 ---
 name: daily-notes
-description: Update the current monthly Techmeme daily notes file. Use this when the task is to review the current Techmeme front page and append one selective, business- and capability-focused daily entry to notes/daily/. Do not use this skill for updating the synthesized implications document.
+description: Update the current monthly Techmeme daily notes file. Use this when the task is to review the current Techmeme front page and append one selective, business- and capability-focused daily entry to 'notes/'. Do not use this skill for updating the synthesized implications document.
 ---
 
 Read:

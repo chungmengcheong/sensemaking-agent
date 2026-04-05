@@ -13,7 +13,7 @@ The goal is not to summarize news for its own sake. The goal is to build and mai
 
 ## Core files
 
-- Daily notes: `notes/daily/`
+- Daily notes: `notes/`
 - Durable synthesis: `notes/synthesized_implications.md`
 
 ## System
@@ -411,7 +411,7 @@ At the end of each run, provide a short changelog stating:
 
 ## Monthly file rollover for daily notes
 
-Daily notes are stored in one file per calendar month in `notes/daily/`, using the filename format: `YYYY-MM.md`
+Daily notes are stored in one file per calendar month in `notes/`, using the filename format: `YYYY-MM.md`
 
 When updating daily notes:
 - determine today's date first
