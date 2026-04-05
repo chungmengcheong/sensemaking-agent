@@ -19,7 +19,58 @@ The system should be conservative about promotion, but not conservative about no
 
 ## Active hypotheses
 
-### 1. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if it becomes the context and harness layer for hybrid AI-human work.
+### 1. Writing software is getting cheap and fast. The real bottlenecks move to strategic fit, distribution, and change absorption.
+
+**Status:** New  
+
+**Why we believe this**
+
+AI coding tools are cutting the time and cost required to turn an idea into working software.
+
+That does not mean software stops mattering. It means teams can now create more software than they should ship.
+
+If more teams can make working software quickly, the harder problems shift to three questions:
+- what to build, and what not to build, so the product stays aligned with the business strategy instead of drifting into random feature motion
+- how to get the new capability in front of users cheaply and repeatedly
+- how fast users and organizations can absorb more change without confusion, distrust, workflow breakage, or retraining fatigue
+
+This should change how software companies compete. Faster creation helps everyone. The bigger advantage should move to firms that can tie product work to a clear business strategy, ship through an existing distribution channel, and pace change at a rate their customers can actually absorb.
+
+This also suggests AI disruption in software may run slower than many boosters expect. Shipping gets easier faster than user behavior and organizational behavior change.
+
+**Current evidence**
+- Google added free Veo 3.1 clip generation to Vids inside Workspace. That suggests suites with existing distribution can absorb adjacent creation features quickly and push them to users at low marginal cost.
+- Bloomberg reported Microsoft hit internal Copilot sales goals after shifting its sales strategy, but only 3% of customers were paying for Copilot as of January. That suggests shipping new AI capability is easier than getting users to adopt it and pay for it.
+
+**Evidence against**
+- Anthropic said a Claude Code release exposed internal source code because of a packaging error, and Socket reported a malicious dependency in Axios releases. That suggests release discipline, security, and trust still slow down production software even when writing code gets faster.
+
+**Implications**
+
+- **Investments**
+  - **Longs:** workflow owners, software suites, developer platforms, and app ecosystems that can ship new capability into an existing user base without paying full distribution cost each time
+    Representative public proxies: Microsoft (MSFT), ServiceNow (NOW), and Intuit (INTU).
+    These own work surfaces, admin channels, or trusted operating workflows that make it easier to distribute change and pace adoption once software creation speeds up.
+  - **Shorts:** point tools whose main edge is shipping features faster, or products that can generate lots of functionality but still have to buy distribution and retrain users from scratch
+    Representative public proxies: Asana (ASAN) and Dropbox (DBX).
+    These are better seen as “thin distribution” proxies than as clean direct shorts. The stronger expression of the view may still be owning distribution and change control rather than betting against any one feature vendor.
+
+- **Business / product strategy**
+  - Treat code as cheap and strategic coherence as scarce.
+  - Say no more often. When software gets cheap to produce, it gets easier to create noise that does not strengthen the business.
+  - Roadmaps should start with the business model, channel, and user behavior you want to change, not with what the coding agent can generate quickly.
+  - Build distribution into the product. Defaults, channels, admin surfaces, templates, and workflow embed matter more when competitors can clone features quickly.
+  - Plan around human and organizational adoption. Training, support, approvals, and workflow redesign may slow rollout more than engineering does.
+  - Measure adoption speed and workflow change, not just shipping speed. The real test is whether users and teams actually absorb the new capability.
+
+- **Startup ideas**
+  - Build product-prioritization systems that connect roadmap choices to user behavior, support pain, sales context, and margin impact. Knowing what not to build gets more valuable as coding gets cheaper.
+  - Build feature rollout and change-absorption infrastructure that segments users, paces releases, generates in-product education, and flags when teams or admins are overloaded by change.
+  - Build distribution layers for AI-generated functionality inside systems of record or software suites, where the edge is landing the feature in the workflow rather than writing it.
+
+---
+
+### 2. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if it becomes the context and harness layer for hybrid AI-human work.
 
 **Status:** Strengthening  
 
@@ -64,7 +115,7 @@ The core point is not just that AI helps software. It is that software is enteri
 
 ---
 
-### 2. AI transitions over-reward implementation first for about five years, then shift value to firms that own business outcomes. As a corollary, there is also a buy-and-transform opportunity in labor-heavy service businesses for the medium-term.
+### 3. AI transitions will over-reward implementation first for about five years, then shift value to firms that own business outcomes. As a corollary, there is also a buy-and-transform opportunity in labor-heavy service businesses for the medium-term.
 
 **Status:** Strengthening  
 
@@ -115,7 +166,55 @@ In fragmented categories like tax prep, bookkeeping, compliance support, paraleg
 
 ---
 
-### 3. Demand for intelligence is far above supply. Frontier compute is strategic infrastructure, so allocation will be shaped by price, politics, and security risk.
+### 4. AI will increase cybercrime and make security more central because offense gets cheaper and agents expand the attack surface.
+
+**Status:** Strengthening  
+
+**Why we believe this**
+
+AI lowers the cost of offense.
+
+It should improve the scale, speed, and quality of phishing, impersonation, fraud, reconnaissance, malware adaptation, and social engineering. At the same time, agentic systems expand the attack surface because they carry identity, permissions, memory, tools, and workflow access.
+
+So this is not just a story about “AI security” as a category. It is a broader claim:
+- cybercrime should rise
+- attack surfaces should get wider
+- more value should move toward identity, permissioning, monitoring, auditability, and runtime controls
+
+This matters more as AI stops being just a chat layer and starts acting inside real systems.
+
+**Current evidence**
+- The recent daily notes have increasingly focused on products that sit inside real workflows and can take action, not just answer questions. That supports the logic that permissioned action surfaces are becoming more important.
+- OpenAI’s move toward a more integrated work environment reinforces the idea that AI systems will have more context, more tools, and more opportunities to act inside workflows.
+- The broader pattern in the notes is that AI is moving closer to execution, which increases the consequences of poor identity, monitoring, and tool control.
+
+**Evidence against**
+- The recent March daily flow has been more focused on workflow control and infrastructure than on direct security incidents, so the security thesis is still more logic-backed than daily-note-backed right now.
+- The notes do not yet show repeated concrete evidence of rising AI-enabled cybercrime in the current period.
+- Existing security vendors may absorb much of this without creating as much new market structure as the hypothesis suggests.
+
+**Implications**
+
+- **Investments**
+  - **Longs:** identity, privileged access, observability, runtime-control, and policy-enforcement vendors
+    Representative public proxies: Okta (OKTA), Palo Alto Networks (PANW), and Zscaler (ZS).
+    These sit in identity, policy, and runtime-control layers. Palo Alto is the cleaner broad public proxy now that CyberArk is no longer public.
+  - **Shorts:** companies deploying agents without strong control layers; businesses exposed to high trust risk but weak permissioning and auditability
+    Representative public proxies: Zoom (ZM) and Teladoc Health (TDOC).
+    These are weaker and less clean shorts. The better expression of the view may still be owning the control layer rather than shorting the surfaces.
+
+- **Business / product strategy**
+  - Treat identity, permissions, monitoring, and replayability as core product primitives, not enterprise add-ons.
+  - Assume AI-mediated systems will create both more attack surface and more compliance pressure.
+  - The tension here is that many teams will ship agentic products before they build the control layer those products need.
+
+- **Startup ideas**
+  - Build products for agent identity, tool-use controls, runtime monitoring, audit trails, and policy enforcement.
+  - Look for security products that govern actions, not just model inputs and outputs.
+
+---
+
+### 5. Demand for intelligence is far above supply. Frontier compute is strategic infrastructure, so allocation will be shaped by price, politics, and security risk.
 
 **Status:** Strengthening  
 
@@ -171,109 +270,6 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 
 ---
 
-### 4. AI will increase cybercrime and make security more central because offense gets cheaper and agents expand the attack surface.
-
-**Status:** Strengthening  
-
-**Why we believe this**
-
-AI lowers the cost of offense.
-
-It should improve the scale, speed, and quality of phishing, impersonation, fraud, reconnaissance, malware adaptation, and social engineering. At the same time, agentic systems expand the attack surface because they carry identity, permissions, memory, tools, and workflow access.
-
-So this is not just a story about “AI security” as a category. It is a broader claim:
-- cybercrime should rise
-- attack surfaces should get wider
-- more value should move toward identity, permissioning, monitoring, auditability, and runtime controls
-
-This matters more as AI stops being just a chat layer and starts acting inside real systems.
-
-**Current evidence**
-- The recent daily notes have increasingly focused on products that sit inside real workflows and can take action, not just answer questions. That supports the logic that permissioned action surfaces are becoming more important.
-- OpenAI’s move toward a more integrated work environment reinforces the idea that AI systems will have more context, more tools, and more opportunities to act inside workflows.
-- The broader pattern in the notes is that AI is moving closer to execution, which increases the consequences of poor identity, monitoring, and tool control.
-
-**Evidence against**
-- The recent March daily flow has been more focused on workflow control and infrastructure than on direct security incidents, so the security thesis is still more logic-backed than daily-note-backed right now.
-- The notes do not yet show repeated concrete evidence of rising AI-enabled cybercrime in the current period.
-- Existing security vendors may absorb much of this without creating as much new market structure as the hypothesis suggests.
-
-**Implications**
-
-- **Investments**
-  - **Longs:** identity, privileged access, observability, runtime-control, and policy-enforcement vendors
-    Representative public proxies: Okta (OKTA), Palo Alto Networks (PANW), and Zscaler (ZS).
-    These sit in identity, policy, and runtime-control layers. Palo Alto is the cleaner broad public proxy now that CyberArk is no longer public.
-  - **Shorts:** companies deploying agents without strong control layers; businesses exposed to high trust risk but weak permissioning and auditability
-    Representative public proxies: Zoom (ZM) and Teladoc Health (TDOC).
-    These are weaker and less clean shorts. The better expression of the view may still be owning the control layer rather than shorting the surfaces.
-
-- **Business / product strategy**
-  - Treat identity, permissions, monitoring, and replayability as core product primitives, not enterprise add-ons.
-  - Assume AI-mediated systems will create both more attack surface and more compliance pressure.
-  - The tension here is that many teams will ship agentic products before they build the control layer those products need.
-
-- **Startup ideas**
-  - Build products for agent identity, tool-use controls, runtime monitoring, audit trails, and policy enforcement.
-  - Look for security products that govern actions, not just model inputs and outputs.
-
----
-
-### 5. Writing software is getting cheap and fast. The real bottlenecks move to strategic fit, distribution, and change absorption.
-
-**Status:** New  
-
-**Why we believe this**
-
-AI coding tools are cutting the time and cost required to turn an idea into working software.
-
-That does not mean software stops mattering. It means teams can now create more software than they should ship.
-
-If more teams can make working software quickly, the harder problems shift to three questions:
-- what to build, and what not to build, so the product stays aligned with the business strategy instead of drifting into random feature motion
-- how to get the new capability in front of users cheaply and repeatedly
-- how fast users and organizations can absorb more change without confusion, distrust, workflow breakage, or retraining fatigue
-
-This should change how software companies compete. Faster creation helps everyone. The bigger advantage should move to firms that can tie product work to a clear business strategy, ship through an existing distribution channel, and pace change at a rate their customers can actually absorb.
-
-This also suggests AI disruption in software may run slower than many boosters expect. Shipping gets easier faster than user behavior and organizational behavior change.
-
-**Current evidence**
-- OpenAI plans to merge ChatGPT, Codex, and its browser into a desktop superapp and acquire Astral. That suggests the fight is moving toward owning the developer work loop and distribution surface, not just writing code faster.
-- Cursor launched Cursor 3 as a unified workspace for running local and cloud coding agents across repos. That suggests building software is becoming more of an orchestration problem inside one work surface than a scarce craft step by step.
-- Cloudflare launched EmDash and said AI coding agents helped it rebuild Next.js in a week. That suggests full application stacks can now be produced fast enough that product selection and go-to-market matter more.
-- Google added free Veo 3.1 clip generation to Vids inside Workspace. That suggests suites with existing distribution can absorb adjacent creation features quickly and push them to users at low marginal cost.
-- Bloomberg reported Microsoft hit internal Copilot sales goals after shifting its sales strategy, but only 3% of customers were paying for Copilot as of January. That suggests shipping new AI capability is easier than getting users to adopt it and pay for it.
-
-**Evidence against**
-- TrueUp data showed software engineering openings at tech companies are still rising. That suggests faster software creation has not yet reduced demand for people who can deploy, supervise, and integrate systems.
-- Anthropic said a Claude Code release exposed internal source code because of a packaging error, and Socket reported a malicious dependency in Axios releases. That suggests release discipline, security, and trust still slow down production software even when writing code gets faster.
-- The current notes show the strongest evidence in coding and adjacent creation tools, not yet across all software categories or enterprise buyers.
-
-**Implications**
-
-- **Investments**
-  - **Longs:** workflow owners, software suites, developer platforms, and app ecosystems that can ship new capability into an existing user base without paying full distribution cost each time
-    Representative public proxies: Microsoft (MSFT), ServiceNow (NOW), and Intuit (INTU).
-    These own work surfaces, admin channels, or trusted operating workflows that make it easier to distribute change and pace adoption once software creation speeds up.
-  - **Shorts:** point tools whose main edge is shipping features faster, or products that can generate lots of functionality but still have to buy distribution and retrain users from scratch
-    Representative public proxies: Asana (ASAN) and Dropbox (DBX).
-    These are better seen as “thin distribution” proxies than as clean direct shorts. The stronger expression of the view may still be owning distribution and change control rather than betting against any one feature vendor.
-
-- **Business / product strategy**
-  - Treat code as cheap and strategic coherence as scarce.
-  - Say no more often. When software gets cheap to produce, it gets easier to create noise that does not strengthen the business.
-  - Roadmaps should start with the business model, channel, and user behavior you want to change, not with what the coding agent can generate quickly.
-  - Build distribution into the product. Defaults, channels, admin surfaces, templates, and workflow embed matter more when competitors can clone features quickly.
-  - Plan around human and organizational adoption. Training, support, approvals, and workflow redesign may slow rollout more than engineering does.
-  - Measure adoption speed and workflow change, not just shipping speed. The real test is whether users and teams actually absorb the new capability.
-
-- **Startup ideas**
-  - Build product-prioritization systems that connect roadmap choices to user behavior, support pain, sales context, and margin impact. Knowing what not to build gets more valuable as coding gets cheaper.
-  - Build feature rollout and change-absorption infrastructure that segments users, paces releases, generates in-product education, and flags when teams or admins are overloaded by change.
-  - Build distribution layers for AI-generated functionality inside systems of record or software suites, where the edge is landing the feature in the workflow rather than writing it.
-
----
 
 ## Candidate hypotheses not yet promoted
 
