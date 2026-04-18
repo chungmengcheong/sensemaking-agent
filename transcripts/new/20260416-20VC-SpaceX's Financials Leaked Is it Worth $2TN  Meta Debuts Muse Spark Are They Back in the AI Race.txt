@@ -1,0 +1,7978 @@
+I don't buy Dario anymore. He may well
+
+
+be the second greatest founder of all
+
+
+time behind Elon, but I am just so
+
+
+burned out of the boy who cries wolf.
+
+
+>> Starting off on the agenda, Anthropic
+
+
+unveils mythos, but withholds it from
+
+
+public release because it's too good at
+
+
+hacking. Number two, public software
+
+
+stocks tumble to new lows with City
+
+
+saying there really is no flaw.
+
+
+Optimistic. And then finally, Meta
+
+
+debuts Muse Spark. It's Alex Wang's
+
+
+first model from Meta's Super
+
+
+Intelligence Labs. Does it save Meta in
+
+
+the race to catch up?
+
+
+>> So, I'm pretty bullish actually on
+
+
+OpenAI in the enterprise.
+
+
+>> I think it's a two-way fight. Antropic
+
+
+has the advantage of clarity and focus.
+
+
+OpenAI has the advantage of the consumer
+
+
+business.
+
+
+>> If your agents are only 60% as good,
+
+
+you're in a slow death spiral. It
+
+
+appears to be the most expensive IPO at
+
+
+scale of all time.
+
+
+>> The Elon discount rate is zero and the
+
+
+Elon probability of failure rate is zero
+
+
+to get to 2 trillion. I can't open the
+
+
+straight of Hormuz myself. I can't do
+
+
+this like enough already. Let me just
+
+
+use my tokens.
+
+
+Ready to go.
+
+
+Guys, I am so excited for this show. Uh,
+
+
+as we always have, we're going to start
+
+
+with Anthropic. What else could we start
+
+
+with but anthropic unveiling mythos with
+
+
+the preview withheld from public release
+
+
+because it is too good at hacking
+
+
+discovered thousands of zeroday
+
+
+vulnerabilities admittedly some were
+
+
+quite old. Um how did we think about
+
+
+this?
+
+
+Did it deserve the reaction that it got?
+
+
+Which reaction are you talking about
+
+
+Harry?
+
+
+>> I would say widespread fear that there
+
+
+was then shown in a loss of market cap
+
+
+of a lot of public companies in the US.
+
+
+Let's leave to one side the was it a
+
+
+marketing stunt whether they have not
+
+
+have compute. Let's focus on what mythos
+
+
+does in terms of cyber security and what
+
+
+your correct response to that would be.
+
+
+And you know if you read a lot of the
+
+
+stuff it it finds a whole ton of
+
+
+vulnerabilities including some that have
+
+
+been lily there for years right? So
+
+
+that's kind of the oh my god that's
+
+
+scary and then you see and that's why
+
+
+they withheld it and shared it with a
+
+
+bunch of security vendors right and then
+
+
+you see a bunch of kind of
+
+
+counterarguments that basically some
+
+
+version of this which is using older
+
+
+models and using them well you can
+
+
+actually get to the same outcome right
+
+
+you can find the same security
+
+
+vulnerabilities right and that's the
+
+
+counter argue and there was a whole
+
+
+bunch of twitters that said this is not
+
+
+a big deal and you know I'm processing
+
+
+true from the outside and and my
+
+
+conclusion is those people who said it's
+
+
+not a big deal are wrong and entropic is
+
+
+right. And I was thinking about the
+
+
+metaphor here today, right? Because what
+
+
+they were saying is and it's actually
+
+
+very interesting about the hologantic
+
+
+revolution. It's kind of a microcosm
+
+
+that allows us to talk about a lot of
+
+
+things. It's like basically they are
+
+
+right which is sorry the the naysayers
+
+
+are right which is that you can take an
+
+
+older model you can point it at some of
+
+
+these issues you can kind of query you
+
+
+can direct it a couple of times and
+
+
+someone actually did the exercise of
+
+
+here's how I found the same bugs. I have
+
+
+to steer the model a little bit and you
+
+
+got it right and but the comment is
+
+
+mythos just kicked off on its own
+
+
+agentically goes and looks at all the
+
+
+code and finds them on its own right and
+
+
+the metaphor I was trying to look at
+
+
+here is very simple it's like it's the
+
+
+difference between a rifle and a machine
+
+
+gun in one sense both of them can kill
+
+
+someone right but one shoots one bullet
+
+
+and then stop and reload and the other
+
+
+just spews guns bullets out and in the
+
+
+first world war you know we all
+
+
+tragically learn that machine guns are
+
+
+it might be the same thing, but quantity
+
+
+makes a huge difference. And I think
+
+
+that's what's really going on here. The
+
+
+speed at which this can process reason
+
+
+across large code bases means that
+
+
+they're just going to find more bullets.
+
+
+They're going to shoot more bullets. So
+
+
+it's not so the kind of the the Twitter
+
+
+cynical it's not that different isn't
+
+
+true because it's the it's the
+
+
+capabilities to do so much so quickly
+
+
+with such human direction that makes it
+
+
+definitely a quantum step difference in
+
+
+terms of real capability. My big aha was
+
+
+it's it's it's not overblown in the
+
+
+sense it can find stuff. I think that AI
+
+
+is enabling every single breach
+
+
+possible, every security hole to be
+
+
+found. Not a subset of the hottest
+
+
+companies, not folks trying to attack uh
+
+
+open AI APIs, but everyone. And like for
+
+
+example, you know, the other day my
+
+
+fitness pal bought Cali, right? Cool
+
+
+story, right? What was it, Harry? $100
+
+
+million. 19-year-old kid from Miami,
+
+
+something like that, right? A great
+
+
+story. Two days later, it was instantly
+
+
+breached. All the records were stolen.
+
+
+3.2 million records. everyone's single
+
+
+use. Everyone all the data on you, all
+
+
+your HIPPA data, every single thing on
+
+
+you was stolen within days and it became
+
+
+a sport for a hacker. They just stole it
+
+
+all. Now the root cause was and actually
+
+
+this is surprisingly common. It's an
+
+
+issue Superbase and others had to deal
+
+
+with. Um they didn't have any
+
+
+authentication on Firebase. It was but
+
+
+as most databases are now built by AI,
+
+
+as more and more apps are built by AI,
+
+
+um the number of issues is going to
+
+
+explode. And if Mythos and Friends lets
+
+
+bad actors find every site the second it
+
+
+launches with any PII and steal it, I
+
+
+think we may enter an era later where
+
+
+sites get more secure as as it's flipped
+
+
+on the other side. But I think we're
+
+
+going to go through a transition phase
+
+
+where security is just getting worse and
+
+
+worse and worse because every single
+
+
+website can be instantly hacked and
+
+
+stolen from it. And the whole mythos run
+
+
+they said I think Claude said it took
+
+
+him I don't know I'm sorry I'm going to
+
+
+misquote the numbers. It took him
+
+
+$20,000 of credits or a couple hours or
+
+
+something like that. Right. And hey
+
+
+that's that's enough that I'm not going
+
+
+to do it against scales website. But if
+
+
+I could if I could simplify that and
+
+
+distribute against every single thing
+
+
+with any PI on it, you know, bad actors
+
+
+are just going to hit everybody. I think
+
+
+it's a big deal. Whether this is a
+
+
+publicity stunt for not having enough
+
+
+capacity, I don't maybe maybe a little
+
+
+bit, right? But um but everything's
+
+
+going to be found every security hole.
+
+
+Right. Agreed. Which is why the second
+
+
+comment I'll make is I I I thought that
+
+
+so the second com is that the reaction
+
+
+to it in terms of security stocks going
+
+
+down to me didn't make sense because I'm
+
+
+like what this says is there's no doubt
+
+
+that the process of going forward part
+
+
+of the process of security will be to
+
+
+use entropic or another code model to
+
+
+check your code before you deploy to
+
+
+find these vulnerabilities. this will be
+
+
+a thing, right? Um, but someone's going
+
+
+to have to administer that. Someone's
+
+
+going to have to build frameworks and
+
+
+harnesses to do pre-screening code. And
+
+
+then, but then more importantly,
+
+
+everyone's going to have to operate on
+
+
+the assumption that if you miss
+
+
+anything, they're going to find it,
+
+
+which is different than if you miss
+
+
+anything and you're really strategic,
+
+
+they might find it. Right? To Jason's
+
+
+point, if the other side now have
+
+
+machine guns, then you've got to build
+
+
+tanks, right? So what security is might
+
+
+change. The the vendors who step up and
+
+
+meet the challenge will triumph and the
+
+
+ones who don't will fall away. If
+
+
+anthropics say that their model now
+
+
+allows anyone to find any
+
+
+vulnerabilities and are going to
+
+
+withhold it for 6 months, that means
+
+
+that in 6 months and one day every bad
+
+
+guy in the planet is going to be pinging
+
+
+your your code and trying to find the
+
+
+bad bits, right? So you bet you're going
+
+
+to be investing in cyber. So I think the
+
+
+part that made sense was the this is a
+
+
+big deal. The part that didn't make
+
+
+sense is the cyber stock should go down
+
+
+because I think you're going to want way
+
+
+more defenses because the bad guys are
+
+
+more heavily armed. And yes, as I say,
+
+
+it is an arms race. Do you buy Dario's
+
+
+it's too powerful. We can't release to
+
+
+the public. Is it just great marketing?
+
+
+I don't buy it anymore. I'll tell you
+
+
+something. One thing that changed with
+
+
+me with the miss thing, for what it's
+
+
+worth, um I I don't buy Dario anymore.
+
+
+What I mean is, listen, he may well be
+
+
+the the second greatest founder of all
+
+
+time behind Elon. Look what he's done in
+
+
+five years, right? Five years to 30
+
+
+billion. The great the greatest um
+
+
+grudge startup of all time, right? I
+
+
+mean, it's hard as a as a founder to not
+
+
+your job not to fall on the ground. But
+
+
+I am just so burned out of the boy who
+
+
+cries wolf. Every job's going to be
+
+
+destroyed. Everything is insecure.
+
+
+Everything like enough already. And like
+
+
+I've heard it so many effing times. And
+
+
+then about Mythos, I have to hear that
+
+
+like he's created the spawn of evil if
+
+
+we're not careful. Like I just can't
+
+
+like I'm I'm I'm I've rotated back to to
+
+
+team Sam after all this because I just
+
+
+can't take the can't take the endless
+
+
+boy who cries wolf. It's like even if
+
+
+you're right there's I can't open the
+
+
+straight of Hormuz myself. I can't do
+
+
+this like enough already. Let me just
+
+
+use my tokens. Seriously, I've lost
+
+
+confidence in his not in him as a as a
+
+
+CEO, but this endless marketing machine.
+
+
+I'm tuning it out now. I don't care
+
+
+anymore what he says about this stuff. I
+
+
+don't care.
+
+
+>> What specifically what specifically do
+
+
+you not buy? I'm just trying to
+
+
+understand.
+
+
+>> Listen, if every Dario's like 80% of
+
+
+jobs are going to be destroyed in in two
+
+
+years, we need we'll need no programmers
+
+
+by next week. Okay, that endless thing.
+
+
+Maybe he's right, but what can I do
+
+
+about it? I heard you. I heard you the
+
+
+11th time. I heard you the 80th time. I
+
+
+heard you on Joe Rogan. I heard you on
+
+
+on on TBPN. I heard you on Harry. I just
+
+
+can't. And then and then the mythos
+
+
+thing and they were holding it back and
+
+
+it's like I believe you're you're a
+
+
+safety guy but if you talk your game too
+
+
+much um I just got to check out at some
+
+
+point. Show me something that's
+
+
+inspiring. Like I actually I honestly
+
+
+feel like his message is uninspiring.
+
+
+That's the problem. It's uninspiring.
+
+
+>> I'm going to push back a little on that.
+
+
+Um but in the following way I think a
+
+
+lot of I think a lot of the doom
+
+
+warnings are wrong and the doom warnings
+
+
+to date have been wrong
+
+
+if you look at the unwillingness to
+
+
+release chat GPT2 which in retrospect
+
+
+was over overdone but I think the
+
+
+concerns are sincerely held right and
+
+
+yeah it it also and it also is good
+
+
+marketing I acknowledge that too but I I
+
+
+think the starting point is there is
+
+
+belief here that these things could
+
+
+happen. To be very concrete, I think
+
+
+it's totally wrong about the economic
+
+
+50%. I think that's beyond madness and
+
+
+I'm not worried about in the slightest.
+
+
+But I do believe, and I thought about
+
+
+this a lot because what I realized is if
+
+
+I'd met them at the sea, which I didn't
+
+
+because it was outside our price
+
+
+bracket, but if I'd met them, I would
+
+
+have done exactly what you did, Jess, I
+
+
+would have listened to the doom warnings
+
+
+and I said, "That's all silly and wrong.
+
+
+Therefore, I won't do the deal." Right.
+
+
+And what I've learned is something more
+
+
+nuanced. I think a lot of Silicon Valley
+
+
+companies have this have a culture
+
+
+that's overreaching and you listen you
+
+
+go the grandiosity if if you're kind of
+
+
+a grounded person you reject the
+
+
+grandiosity but what I've internalized
+
+
+is the grandiosity is is a rallying is
+
+
+sincerely held because I don't believe
+
+
+you can portray grandiosity consistently
+
+
+for 5 years if you don't believe it. So
+
+
+unless you're really psychopathic so
+
+
+sociopathic I should say. So, um I I
+
+
+think it's sincerely held and I think it
+
+
+has a huge unifying effect on a company.
+
+
+Like take for example Elon and we're
+
+
+going to Mars. Like the minute we had to
+
+
+file an S1 and someone had to say you
+
+
+might have to go to prison if you say
+
+
+things wrong. We said we're not going to
+
+
+Mars. We're going to the moon. Right? So
+
+
+you could be cynical. If id looked at
+
+
+that deal much earlier on, I would have
+
+
+said the the the cynical but incorrect
+
+
+approach would have been to say I don't
+
+
+think they're going to Mars for here's
+
+
+10 reasons. Therefore, I'm not going to
+
+
+do the deal. the more evolved approach,
+
+
+and this is why I'm pushing back in on
+
+
+Tropic, is I don't think they're going
+
+
+to go to Mars, but I do think the Mars
+
+
+vision over 20, 30 years is a rallying
+
+
+cry that will allows them to do amazing
+
+
+ in the short term, which they've
+
+
+done. And I think the same thing applies
+
+
+with Dario here. It's like I think it's
+
+
+all over. I think the half of Silicon
+
+
+Valley, I'm going to say it here, is
+
+
+running around thinking they're
+
+
+inventing the next thing after the atom
+
+
+bomb. And I simply don't. I don't think
+
+
+we're going to unemploy 50% of white
+
+
+collar workers. I think it's madness. I
+
+
+think it has some legitimate dangers in
+
+
+cyber security and bioteterrorism but
+
+
+the manageable I think we're all it's
+
+
+all over wrought but that overought
+
+
+his I won't say hysteria that overworked
+
+
+intensity right has allowed them to
+
+
+build a culture where it had no churn
+
+
+it's given them mission clarity and then
+
+
+we've given them it's a given a $ 30
+
+
+billion
+
+
+revenue line and a possibly trillion
+
+
+dollar market cap and what I've learned
+
+
+and it's really hard for me because I
+
+
+find all this problem Like
+
+
+it's like the Airbnb. Remember the
+
+
+Airbnb was the sharing economy and Uber
+
+
+was the you remember the sharing
+
+
+economy. It sounded like a bunch of
+
+
+communism. We're all going to sleep on
+
+
+each other's, you know, air mattresses.
+
+
+That was a visionary fairy
+
+
+That turns out what really is going to
+
+
+happen is people are going to buy houses
+
+
+and rent them out, right? So what I've
+
+
+learned, you know, Steve Jobs was a
+
+
+bicycle for the mind. It turns out we're
+
+
+all just going to sit on our phones and,
+
+
+you know, watch Instagram and get
+
+
+depressed about other people's lives.
+
+
+But the vision oomphy bit it just helps
+
+
+keeps the machine of innovation churning
+
+
+here people. So what I've learned to do
+
+
+which is really hard is literally listen
+
+
+to the idealism.
+
+
+Don't say do I agree or not say to
+
+
+myself will it motivate people enough to
+
+
+do something where there is economic
+
+
+advantage to be obtained and that's a
+
+
+very cynical old person's perspective.
+
+
+But that's the context in which I say I
+
+
+think Dario
+
+
+believes all that stuff and I think it's
+
+
+useful for them and I think it's wrong.
+
+
+But it's damn useful and it's worked.
+
+
+>> Jason, I get you. What do you want him
+
+
+to say then? Like you said, oh, I don't
+
+
+find him inspiring enough. What would
+
+
+what would make you happy? What do you
+
+
+think he should say? And I think before
+
+
+things got tougher, I think Sam was good
+
+
+at teasing at this. I want him to take
+
+
+us to Mars. I want to see the good side.
+
+
+Even Venode, who is very direct that
+
+
+there's going to be a lot of job losses.
+
+
+Right or wrong, Roy disagrees, but
+
+
+Venode's very direct, his point is it's
+
+
+going to be okay, right? We will figure
+
+
+this out with AGI. Everyone will pay
+
+
+more taxes even in California. It's
+
+
+okay. Mark Andre, his point is we're
+
+
+entering an area of deflation and
+
+
+abundance, right? I I don't need I don't
+
+
+need too much on the other side. I don't
+
+
+I don't need the fluff, but I just need
+
+
+a little inspiration that there's some
+
+
+good um and I'm not saying maybe the law
+
+
+maybe the third hour of Dario's speeches
+
+
+have it, but everything I see on social
+
+
+media feels like he's an invertton
+
+
+Debbie Downer. And um it's just uh I'm
+
+
+tuning out. I'm just tuning out now. And
+
+
+maybe in the enterprise he's got to
+
+
+we'll just see. Listen, I don't run a $
+
+
+30 billion. It this it may it may almost
+
+
+have to change as the years go on as
+
+
+this works less well with the
+
+
+million-doll customers, right? You may
+
+
+have to be more positive about the
+
+
+benefits in your workflow. I think
+
+
+Jason, the odd thing is we're actually
+
+
+agreeing on one thing. tune out the
+
+
+noise and just, you know, in the words
+
+
+of Halddederman, you know, don't look at
+
+
+what we say, look at what we do. I
+
+
+always love quoting the Nixon White
+
+
+House as what used to be the most
+
+
+cynical White House we've ever seen, but
+
+
+we can come to that another day. And you
+
+
+know, ignore what all ignore the people
+
+
+that people are saying, "Oh my god, this
+
+
+could eliminate white collar jobs." And
+
+
+ringing their hands and saying, "This is
+
+
+awful. Look at what we're doing. We're
+
+
+shipping code. We're shipping software.
+
+
+We're doing 30 billion and run rate. Oh
+
+
+ it's amazing." Turns out you're
+
+
+not buying the guilt. I mean, it's
+
+
+you're not buying the guilt. You're not
+
+
+buying the hand ringing. You're actually
+
+
+buying the revenue. And the revenue is
+
+
+amazing.
+
+
+>> I'm with you.
+
+
+>> It's pretty amazing.
+
+
+>> I've spent a lot of the last year
+
+
+attempting to help founders that they
+
+
+genuinely need to move more quickly,
+
+
+that they are too complacent in their
+
+
+approach to AI, that this what I that
+
+
+they have at best a 60% solution, 60%
+
+
+answer to the problem. I've tried I've
+
+
+tried to vibe code in public. I've tried
+
+
+to build my own apps. I've tried to
+
+
+share how we've rebooted our teams to
+
+
+three humans in 28. I've done all this
+
+
+and I and I know it's profoundly helped
+
+
+a lot of people. I get so many messages,
+
+
+so many so many public company CEOs,
+
+
+leaders reach out to me. Even me, I'm
+
+
+like, I'm almost done with this phase.
+
+
+Like, I have alerted you, okay? If after
+
+
+me with my 10 trillion tweets and 2,000
+
+
+blog posts and 54 20 VC pods together,
+
+
+if you haven't heard the message that
+
+
+you got to like you got to catch up in
+
+
+AI, may maybe I'm no Dario, but even I'm
+
+
+ready to to move on to the new world.
+
+
+I'm leaving the past behind. And if
+
+
+we're all going to live in a world of
+
+
+robots and AI lawyers, so be it. Like uh
+
+
+you know, I'm I'm ready to move on to
+
+
+the new world. And I'm almost and I'm
+
+
+frankly ready to write off a lot of
+
+
+portfolio companies and a lot of public
+
+
+companies. It's time to move on, guys.
+
+
+If you're not going to get there in
+
+
+April of 2026, then so be it. So be it.
+
+
+Well, let's mark do a markdown and call
+
+
+it a day. And good luck to you. I'm
+
+
+going to close with the Oppenheimer
+
+
+quote. All of these founders have their
+
+
+Oenheimer moment. They want to be
+
+
+Vishnu, destroyer of worlds. And that's
+
+
+been, you know, they all reference the
+
+
+book. Obviously, everyone, you know, so
+
+
+so obviously channeling Sam and
+
+
+channeling their their kind of all um
+
+
+kind of Oppenheimer moment, you know,
+
+
+with with the new atomic bomb. My
+
+
+favorite moment in that movie was when
+
+
+Harry Truman says, "Get that crybaby out
+
+
+of the White House." In the end, Harry
+
+
+correctly says, "I dropped the bomb."
+
+
+The equivalent of that is if a whole
+
+
+bunch of people are fired, Jamie Mo
+
+
+Jamie Diamond will fire them. He doesn't
+
+
+need you ringing your hands with guilt,
+
+
+Dario. It's okay. Right? Other people,
+
+
+and it was a great moment when Harry
+
+
+Trump correctly said, "History won't
+
+
+say, Robert Oppenheimer, you killed all
+
+
+those people." History will say, "You
+
+
+built the bomb." And history will say,
+
+
+"I dropped it." Right? And so, in other
+
+
+words, get over your guilt. ship the
+
+
+product in a methodical fashion. Do be
+
+
+careful. I do think he was right to keep
+
+
+that product back, but in the end, you
+
+
+know, it's not stoppable. I I appreciate
+
+
+that you I actually think he's very
+
+
+thoughtful about it. So, I'm on his side
+
+
+on being thoughtful. I don't think it's
+
+
+fake, but this is going to happen and
+
+
+other people are going to own the
+
+
+problem. Onwards.
+
+
+>> Onwards.
+
+
+The final element which is connected but
+
+
+not the same, which is mythos was
+
+
+trained entirely on Amazon's training.
+
+
+>> I don't think that's correct.
+
+
+straightforwardly. What What What makes
+
+
+you I'm sorry I cut you off there
+
+
+because I've had too much coffee, but
+
+
+whatever. Um
+
+
+>> it feels like a three cup of morning uh
+
+
+morning for Rory, doesn't it, Harry?
+
+
+What are you saying?
+
+
+>> Keep Sorry, keep going. Keep going cuz
+
+
+I'll let you finish your sentence.
+
+
+>> Well, well, um apparently Mythos was
+
+
+trained entirely on Amazon's Traium
+
+
+chips. Um Jasse disclosed that it's now
+
+
+a $20 billion annualized business
+
+
+growing triple digits. Um uh Traium now
+
+
+is nearly sold out. Uber among one of
+
+
+their biggest customers. Question being,
+
+
+if this is the case, are we slightly
+
+
+seeing a loosening of Nvidia's
+
+
+stronghold on the market? And does this
+
+
+change how we feel about Nvidia? First
+
+
+of all, I think you need to be really
+
+
+precise here cuz I checked I didn't know
+
+
+this point, so I checked it. It's like
+
+
+it sounds like you're a couple things.
+
+
+It sounds like you're saying, "Oh my
+
+
+god, they're shipping tranium chips to
+
+
+others who are using who are you buying
+
+
+chips and using them." They're not. They
+
+
+don't to a rounding error have a
+
+
+merchant silicon business. that are not
+
+
+competing directly with Nvidia. What is
+
+
+true is Amazon instead of buying Nvidia
+
+
+chips is buying its own chips and then
+
+
+offering cloud hosting services and you
+
+
+know inference services and model
+
+
+training services. So it's not
+
+
+so think of it as less oh my god
+
+
+someone's buying chips and competing
+
+
+with Nvidia is that Amazon is not buying
+
+
+Nvidia chips instead using its own chips
+
+
+and most of that runway is internal
+
+
+purchasing. So what they're really
+
+
+saying is Amazon is saying we have a
+
+
+capex budget of 200 billion a year this
+
+
+year which probably means about half of
+
+
+that typically is chips. It's 100
+
+
+billion. So where we can we're buying
+
+
+our own chips, of course we are. And
+
+
+where we're not, we're going to have to
+
+
+buy Nvidia just like everyone else. So
+
+
+that's true. And then in terms of who's
+
+
+quote unquote a customer, all they're
+
+
+saying is this is when they're either
+
+
+when they're if they're doing training
+
+
+runs for Entropic, which I'm sure they
+
+
+are, or they're doing inference runs,
+
+
+which I'm definitely sure they are cuz
+
+
+that's a product that they offer true
+
+
+bedrock. When they're doing that,
+
+
+they're running it on their trip. So
+
+
+yes, in that sense, in that sense, some
+
+
+of the mythos model was probably trained
+
+
+on tranium trips, but not because
+
+
+Atropic said, "Yo, I love tranium." It's
+
+
+because to the extent that Amazon is
+
+
+offering them compute, some of that
+
+
+computes Centranium. That's all that's
+
+
+happening here. But you all that said,
+
+
+it's still 20 billion of dollars that
+
+
+didn't go to Nvidia that went to Amazon.
+
+
+So it it is at the margin meaningful.
+
+
+It's 10% of kind of Nvidia's revenue, a
+
+
+little less than 10%. So it's and so
+
+
+it's not a mega competitor. It's just an
+
+
+in-house bundle product at some
+
+
+significant scale.
+
+
+>> I'm loving this Rory Jason, aren't you?
+
+
+is like
+
+
+>> you know 10% is material like we I don't
+
+
+want to we don't need to spend all over
+
+
+10% is material right and I guess
+
+
+>> the the bare case is just everyone's
+
+
+building their own chip or deploying
+
+
+their own chip everyone's trying
+
+
+everyone's trying especially on
+
+
+inference and um you know this is and
+
+
+and that just Nvidia is dented it's
+
+
+dented sufficiently to see multiple
+
+
+compression it's dented sufficiently
+
+
+that our 401ks go down more right it's
+
+
+really just that it's that that when
+
+
+things are priced to perfection there's
+
+
+dent right Fortnite Maybe
+
+
+>> Fortnite. Nvidia may have its own
+
+
+Fortnite moment as as crazy as it
+
+
+sounds. It just may be the first 30
+
+
+seconds of the game on a on a relative
+
+
+basis. But uh yeah, but but no one knows
+
+
+this better than Jensen, right? No one
+
+
+no one is is friends with his frenemies
+
+
+and and friend of partners and friend of
+
+
+better than better than Jensen. No one's
+
+
+played this game in the history of
+
+
+mankind of being kind to everybody,
+
+
+pulling back, being right, understanding
+
+
+the dynamics, and still winning. So
+
+
+crazy crazy good at it, right? doesn't
+
+
+get his dander up on this stuff like
+
+
+most of us do.
+
+
+>> And remember, I I I think Amazon and
+
+
+Nvidia had a famously have a famously
+
+
+difficult relationship. So, they're
+
+
+probably the company most interested in
+
+
+not buying from individ. So, I think I
+
+
+think what you're saying is fair at the
+
+
+margin. It's 20 billion like to have 10%
+
+
+is not meaningless market share.
+
+
+>> Yeah. But, you know, the big picture
+
+
+comment is compute is scarce, chips are
+
+
+scarce, they're pretty much sold out,
+
+
+the stocks at 194, and you know, it it
+
+
+didn't super accelerate it when they did
+
+
+that trillion dollar backlog comment,
+
+
+but it didn't go down either. So, you
+
+
+know, I I I think we're up against the
+
+
+constraint limit rather than anything
+
+
+else.
+
+
+We're going to stick on Anthropic, but
+
+
+Moonlight Anthropic to now compete with
+
+
+lovable directly. They launched recently
+
+
+in the last 48 hours a competitive
+
+
+product. Um,
+
+
+>> you sure it was launched?
+
+
+>> Well, they announced it.
+
+
+>> Okay.
+
+
+>> Harry, see Harry's a media guy. He
+
+
+thinks when things are announced that
+
+
+they're real. Jason is a software guy.
+
+
+He actually thinks you have to ship
+
+
+product.
+
+
+>> No, it's all about the announcement.
+
+
+Surely you've seen that in the last few
+
+
+days. A
+
+
+>> as the lovable replet guru here. Look, I
+
+
+mean Claude Code is clearly directly
+
+
+competitive with Cursor and then you
+
+
+have this slightly different segment.
+
+
+I'd love your opinion, Jason, on kind of
+
+
+the the lovable replet segment. What do
+
+
+you think the competitive
+
+
+threat from a Claude from a slant
+
+
+onropic to those players? I mean, cuz
+
+
+>> well, look, Eric from Bolt on these
+
+
+screenshots. Eric from Bolt said, "Oh,
+
+
+we we all I was with I was at a dinner
+
+
+with the CTO of Level. We all knew this
+
+
+was coming. It was just a question of
+
+
+when." And then I asked him if he
+
+
+thought the screenshots were real and he
+
+
+said it didn't really matter because
+
+
+because it was coming, right? So, so
+
+
+that's that's a that's a a number three
+
+
+or number four players view. The meta
+
+
+question, you know, if this were if this
+
+
+were 52 episodes ago, um I'd be like,
+
+
+well, you know, it could happen, but
+
+
+it's it's not important enough. They're
+
+
+going to have to get into databases and
+
+
+hosting and identity management and OOTH
+
+
+and and and and enduser support, like
+
+
+consumer level enduser support. They
+
+
+like it's a whole bunch of things
+
+
+culturally that they don't want to do,
+
+
+right? But the pace of innovation at
+
+
+Enthropic is so intense that on a
+
+
+whiteboard, it's hard not to want to
+
+
+grab a couple billion of extra revenue
+
+
+from vibe coding, right? Because because
+
+
+you're just you're just a database and
+
+
+an ooth uh and and sort and and a few
+
+
+other, you know, for them it's 30 days
+
+
+of work, right? Um so I don't know, but
+
+
+the classic the old school the old
+
+
+school the old school VC would be like
+
+
+it's distracting. Even if they launch
+
+
+it, they're not going to maintain it.
+
+
+They're not going to have support.
+
+
+they're not going to they're not going
+
+
+to put all the resources you need to
+
+
+maintain it. But the the truth is and
+
+
+maybe Eric from Bolt's point is maybe if
+
+
+they don't directly compete at the
+
+
+proumer level, right? Even if they don't
+
+
+build a a base 44 lovable replet, they
+
+
+might just go halfway there and that
+
+
+might be enough. Like it might be a it
+
+
+might be something that developers use
+
+
+who just want to get something going,
+
+
+right? It might be something that that
+
+
+more technical product teams use, which
+
+
+is like the number one highest ROI
+
+
+category for ripe unlovable. the these
+
+
+these product teams and they may only
+
+
+target the the nerdier the more
+
+
+technical part of the market and that
+
+
+might be sufficient to again maim maim m
+
+
+name m name the folks right um it
+
+
+doesn't have to be 100% they don't have
+
+
+to replace shopping sites and stuff like
+
+
+that to have a material presence so but
+
+
+you know that that Anton and Amjad and
+
+
+everyone thinks about this 26 hours a
+
+
+day how do we stay ahead right how do we
+
+
+stay ahead um and um and it may just be
+
+
+maming. If it happens, it may just be
+
+
+maming, but maming hurts.
+
+
+>> But Jason, those product teams could
+
+
+just use Figma make, right? I mean,
+
+
+>> they can't use make.
+
+
+>> Don't feed. Now you're just Now you're
+
+
+just poking the bear. Harry,
+
+
+please leave the bear alone.
+
+
+>> Well, I'll tell you.
+
+
+>> Well, we could talk about
+
+
+>> Annie's off. Annie's off.
+
+
+>> No, I just um
+
+
+>> Well, well, let's stay on this topic. It
+
+
+actually ties to If we talk about
+
+
+software stocks, why I've become more
+
+
+pessimistic since the last show on them,
+
+
+but
+
+
+>> Oh, no. Why have you become more
+
+
+pessimistic? But because we are kind of
+
+
+ahead in this agentic thing, right? At
+
+
+least in the real world. I do talk to
+
+
+lots of teams, lots of senior product
+
+
+teams, lots of CEOs at massive, more
+
+
+than I ever done in the last 10 years
+
+
+combined. Okay, every week multiple
+
+
+zooms, multiple calls, and there are
+
+
+exceptions for for sure. But I would say
+
+
+here's why I'm pessimistic and why I
+
+
+think that the draw down is accurate.
+
+
+Even though I don't understand the
+
+
+public markets, I think almost
+
+
+everybody's building a 60% solution and
+
+
+make is an example. You look and you
+
+
+look what Claude did or or or prompting
+
+
+did last November and you spent the last
+
+
+four to 6 months building something
+
+
+that's kind of similar to what what
+
+
+these products were like 5 to 6 months
+
+
+ago, but you can't really explo afford
+
+
+the tokens. You're worried about the
+
+
+cost. You can't build all the features.
+
+
+Um, you're trying to use cheap models to
+
+
+bring cost down. You're trying to limit
+
+
+it and you end up with make, but
+
+
+everyone has a make. Why is make so
+
+
+crappy? It's because you didn't care
+
+
+enough to spend the money or put the
+
+
+team and make is a good copy of replet
+
+
+or lovable from last summer, right?
+
+
+That's what happens. And and by the time
+
+
+make catches up to replet and lovable
+
+
+today and then and then they decide it's
+
+
+too expensive and then they decide they
+
+
+have to lock it down because they can't
+
+
+afford the agents and tokens. Now you're
+
+
+9 months behind and 12 months behind.
+
+
+And so what I mean is and and so it's
+
+
+not just that you're have a 60%
+
+
+competitive solution. Here's the meta
+
+
+problem for the incumbents. You can't
+
+
+charge for a 60% solution. Here's the
+
+
+problem. If you could charge 60% of what
+
+
+Claude charges or or Lorra charged or
+
+
+Replet charged, that'd be great. That
+
+
+would that's enough to charge 60%. But a
+
+
+60% product has to be free. It has to be
+
+
+included with your base charge. And
+
+
+while we're recording this, for example,
+
+
+today, HubSpot's launching its next
+
+
+group of AI agents, right? And I'm
+
+
+excited to try them and I will be
+
+
+supportive. If they're only 60% as good
+
+
+as a standalone solutions, HubSpot
+
+
+cannot really charge for these things.
+
+
+You can't get away with charging another
+
+
+20, 40, $60,000 to HubSpot customer. If
+
+
+your agent is fine, it works like in
+
+
+isolation. When I meet with internal
+
+
+product teams at large companies at
+
+
+scale, they are so effing proud of
+
+
+themselves. They show me their agent
+
+
+that they built. They show me their vibe
+
+
+coding thing and if I didn't use any
+
+
+other products, I'd think they were
+
+
+great, too. Or if this was 51 weeks ago,
+
+
+I would think these products were great.
+
+
+And they're so insular at their 2,000
+
+
+person company in their in their in
+
+
+their fancy campus wherever they are
+
+
+with their mugs at bringing their mugs
+
+
+to the meetings because because at their
+
+
+pace and and and they're failing even as
+
+
+they're proud of themselves with their
+
+
+60% solution because the market will not
+
+
+pay. They will use it like they'll use
+
+
+your pro your your 60% solution but
+
+
+they're not going to pay for it. They're
+
+
+not going to pay for it. And so you're
+
+
+you're you're stuck in this doom loop of
+
+
+yes I have an AI product as a public B2B
+
+
+company but no one is willing to pay for
+
+
+it for a 60% solution. They're not
+
+
+willing to pay 60%. And so we can say
+
+
+all these companies have moes and
+
+
+service now has the biggest mode of all.
+
+
+So it shouldn't be sold off and this and
+
+
+that. But if your agents are only 60% as
+
+
+good, you're you're you're in a slow
+
+
+death spiral. And that's what I see. I
+
+
+can't think of maybe one or two
+
+
+exceptions of everyone at scale where
+
+
+their agents are as good as either a
+
+
+standalone company or just what I can do
+
+
+in Claude. Now, I can't maintain Claude,
+
+
+there's a whole bunch of issues, but if
+
+
+it's only 60% as good, there's no way
+
+
+I'm going to pay this this AE that just
+
+
+called me up 100 grand for it. I'm not
+
+
+going to do it. It's not good enough.
+
+
+You checking the box does not work with
+
+
+agents. The check the box feature cannot
+
+
+be monetized in the AI era. And this is
+
+
+why I think they're all properly
+
+
+sold down because none of them h they
+
+
+all have 60% solutions. All of them. All
+
+
+of them. And they should be
+
+
+it's it's do or die guys because you
+
+
+can't sell these things. You can't sell
+
+
+these things, right? And that's and know
+
+
+the one there's two counter examples. We
+
+
+could argue over agent force and and the
+
+
+the the base 44 Wix one may not save
+
+
+Wix, right? which has repurchased like
+
+
+30 or 40% of its company, but at least
+
+
+they made a bet that got them beyond a
+
+
+60% solution, right, to 9 figures in
+
+
+revenue.
+
+
+>> I I I I agree. I I I think
+
+
+I I think there's a lot to unpack on
+
+
+what's happening in SAS, but I think I
+
+
+I've internalized that Jason has
+
+
+articulated one of the big truths, which
+
+
+is unless you have a product that's good
+
+
+enough to charge for independently,
+
+
+you won't have revenue acceleration of
+
+
+any meaningful scale. And if you don't
+
+
+have revenue reaceleration, then you're
+
+
+in a different valuation metric. And
+
+
+I'll talk about how to value it value
+
+
+mature companies with probably
+
+
+persistent users, but stockbased comp
+
+
+issues and no growth issues. And you can
+
+
+do that. And you know, one of my rules
+
+
+is price clears all market. There's a
+
+
+price at which Service Now and
+
+
+Salesforce are all quote unquote worth
+
+
+something. So zoom out a million miles.
+
+
+Jason is right. If you can't charge for
+
+
+your you won't reacelerate. And if
+
+
+you reacelerate, you instantly move to
+
+
+another valuation bucket. Right? So I
+
+
+actually I've listened to you a few
+
+
+times and I think there's a clarity of
+
+
+simplicity there because you can talk a
+
+
+lot about, hey, we're doing this or the
+
+
+other, but the gut level test is can you
+
+
+charge for it? So I I I really it's a
+
+
+big freaking comment, right? Because
+
+
+I've been wrestling with what do you use
+
+
+to sort out all these public SAS
+
+
+companies and you know what are the how
+
+
+do you think about it, right? And if
+
+
+you're in a market where there is high
+
+
+if you if you're in a very workfl
+
+
+now there might be other things that are
+
+
+more payments related or stuff like that
+
+
+where I think there's different dynamics
+
+
+but if you were in a workflowcentric
+
+
+world for the last two decades like
+
+
+salesforce and service now you are in an
+
+
+agentic world now and if you're in a
+
+
+world now you better have exactly what
+
+
+Jason says agents that are worth the
+
+
+money which means they do the work. It's
+
+
+actually a very brilliant test and I
+
+
+think if I was I'm literally looking at
+
+
+the horizontal software applications
+
+
+list for Morgan Stanley and Jason you're
+
+
+right that it was probably the first if
+
+
+I'm thinking about how to value this
+
+
+bucket of 1.6 6 trillion. That is the
+
+
+first test. If yes, then you're on the
+
+
+increasing value scale and you can make
+
+
+it out. And it's still going to be hard.
+
+
+See Wix for details. If no, then you're
+
+
+in the how do you value
+
+
+a company with um you know mid mid
+
+
+single to high single digits growth rate
+
+
+at best probably I think an example
+
+
+sales are very sticky and you know you
+
+
+might be hit and I think that's a
+
+
+separate valuation question right I
+
+
+think that you know at nine times these
+
+
+things are trading now at 8 to nine
+
+
+times cash flow you might be hitting a
+
+
+point where just the money allows you to
+
+
+be a deep value player you're you know
+
+
+the pees of something like salesforce
+
+
+excluding stockbased comp are it's 11 or
+
+
+12 times forward PE when the market's
+
+
+20, right? This is unparalleled, right?
+
+
+So, if you want to make yourself a value
+
+
+play, money can still be made, but it's
+
+
+it's a grim way to make money. The only
+
+
+way to still be a growth play is to pass
+
+
+the Jason test. So, that's my zoom out
+
+
+comment here, right? And again, you said
+
+
+it in financial terms a few weeks ago,
+
+
+which is reaceleration, but today you're
+
+
+actually articulating the the pre
+
+
+predecessor test. If you have a gentic
+
+
+workflows, then you will have
+
+
+reaceleration. Then you'll be in the
+
+
+Jason Happy bucket. And if not, then
+
+
+you'll be in this the tragic value
+
+
+bucket and you will have to do hard
+
+
+things that would make Dario and Sam
+
+
+cry. If you're going to make this thing
+
+
+cash flow, it's going to be involve SPC
+
+
+reduction. It's going to involve
+
+
+headcount reduction. It's going to
+
+
+involve a bunch of grim And you
+
+
+can probably still make money, but
+
+
+you're also top stopped. Nothing magical
+
+
+will ever happen to a high singledigit
+
+
+growth rate tech company that's kicking
+
+
+off cash. At best, you build a mini
+
+
+version of IBM CA and the top five
+
+
+executives make money. It's not going to
+
+
+be fun. Right. So, you're right, Jason.
+
+
+Would you buy Service Now?
+
+
+>> No, I wouldn't buy any of them.
+
+
+I wouldn't buy because I I'm looking
+
+
+I'm looking for products that are more
+
+
+than a 60% solution. I don't it's just
+
+
+the world's moving too fast and no one
+
+
+wants um when we started this this pod I
+
+
+wasn't sure if I believed it or not. I
+
+
+was probably on the fence, but there was
+
+
+definitely a sense that the models might
+
+
+plateau, right? That that that there'd
+
+
+be parody. Um that they're all pretty
+
+
+good. They all basically could could
+
+
+could could do a chatbot. Um it's
+
+
+clearly not the case today. If we tie
+
+
+tie it to the beginning of this
+
+
+conversation, the models have radically
+
+
+accelerated their power since December,
+
+
+right? Since since since since Opus 45
+
+
+and more, and we haven't used Mythos or
+
+
+whatever, it's going to be even more
+
+
+powerful. And so I'm not optimistic that
+
+
+that anybody um building to last year's
+
+
+spec slowly can compete. It's too
+
+
+furious. It's too furious. And um and I
+
+
+also think that the problem with Moes is
+
+
+they keep your customers in, but they
+
+
+don't lure any new ones in. No one's
+
+
+excited to cross the moat except the
+
+
+folks that want to breach the castle
+
+
+walls. This whole moat discussion, I
+
+
+think, is at the edge of moronic, right?
+
+
+It's at the edge of hooray, you have a
+
+
+moat and your customer I signed a 5year,
+
+
+you know, the average service now deal
+
+
+between three and 5 years. So what? That
+
+
+doesn't bring in anybody new. It doesn't
+
+
+bring in aentic revenue. It just means
+
+
+I'm trapped. Prisoners prisoners don't
+
+
+create growth uh other than at the
+
+
+margin, right? Other than other than
+
+
+with the margin.
+
+
+>> First of all, I love the mode analogy.
+
+
+That's great. And what you're basically
+
+
+say because I've listened to this is
+
+
+that what you're basically saying is
+
+
+Jason is not a buyer of any stock that's
+
+
+not a growth story,
+
+
+>> right? I think it's good, right? And I
+
+
+think so and I and I I've come to the
+
+
+conclusion you were right on that. And
+
+
+one of the reasons I enjoy doing this
+
+
+part is when we argue sometimes I change
+
+
+my mind, right? Because let's I want to
+
+
+play out the value track just for
+
+
+another few minutes. Right? I think the
+
+
+problem with the value play I think at
+
+
+this price I think you make money on
+
+
+Salesforce but unless they get regrowth
+
+
+you're going to make single digits
+
+
+returns and the overall Ibson small cap
+
+
+is 11 so you are you going to
+
+
+underperform I actually think the other
+
+
+thing you're wrestling with
+
+
+in terms of these stocks is the
+
+
+following the weird thing right now is
+
+
+the public markets don't have access to
+
+
+growth to the growth side of software
+
+
+they have if so right now the trade is
+
+
+sell sell SAS buy semis which
+
+
+effectively means sales buy AI making AI
+
+
+right what you don't have yet in the
+
+
+public markets is AI native companies
+
+
+starting with entropic and open AI right
+
+
+and therefore you've you know mythos is
+
+
+a wonderful word because in fact you're
+
+
+comparing the practical values of owning
+
+
+Salesforce with the mythical values of
+
+
+owning this company that's growing 10x
+
+
+where you've never seen the actual
+
+
+financials no one's seen GAP financials
+
+
+but oh my god it's amazing And
+
+
+everyone's always going to want the
+
+
+myth, you know, pick your girlfriend,
+
+
+boyfriend analogy. It's the, you know,
+
+
+the the practical realities of the
+
+
+person you're with now versus the
+
+
+mythical example of something that could
+
+
+be. So my other aha is these stocks
+
+
+aren't going to trade in the same
+
+
+fashion until five or six public of
+
+
+these two of the foundation models and
+
+
+four or five other um AI gen AI native
+
+
+companies are public. And then you can
+
+
+finally as a public market investor say
+
+
+okay now I can choose do I want let's
+
+
+put right do I want entropic growing at
+
+
+that one probably 5x at 30 times
+
+
+revenues with huge losses and big
+
+
+stockbased comp or do I want boring ass
+
+
+salesforce growing at 10% with 30%
+
+
+operating margins and at that point no
+
+
+stockbased comp loss right at least now
+
+
+you can have a choice the and then then
+
+
+what'll happen is then we'll find out
+
+
+how to evaluate those two things and
+
+
+that you know it's probably going to
+
+
+take six 12 months after the IPOs
+
+
+My point is until then what you're
+
+
+dealing with is the mythical desire for
+
+
+the as yet unrealized relationship,
+
+
+right? So these stocks are going to
+
+
+trade for until then is my big aha
+
+
+because no one's going to be able to
+
+
+value them, right? The only people that
+
+
+get out of that mess now are what Jason
+
+
+said. If you if you manage to claw your
+
+
+way to growth as a
+
+
+public SAS company, then you do actually
+
+
+have some kind of chance of trading up.
+
+
+And but if you got to trade on
+
+
+fundamental value,
+
+
+you're always going to be chasing this
+
+
+kind of fear that the model companies
+
+
+can do everything you can. I don't think
+
+
+they can. I think when the model
+
+
+companies go public, people are going to
+
+
+realize, oh yeah, Salesforce in its
+
+
+current form, it's probably going to be
+
+
+there for the next couple of decades.
+
+
+It's worth it cash flow. But Jason is
+
+
+still right. Unless it gets its
+
+
+together and makes great agents, it's
+
+
+it's another IBM. And you know, when did
+
+
+you last even I don't even know the
+
+
+price of IBM cuz why would you? I
+
+
+believe someone's probably made money,
+
+
+but it's not my problem, right? You just
+
+
+become a boring ass old thing. So, I
+
+
+think Jason, summary, you're right,
+
+
+Jason. If you don't have gold, and it's
+
+
+an interesting question is, and Wix is
+
+
+interesting because
+
+
+because I think that's an they're kind
+
+
+of they've done what you suggested,
+
+
+Jason, they're trying to get growth and
+
+
+they're getting growth. And as yet,
+
+
+you're right, they did a buyback and the
+
+
+stock's down 20% since then. So, my aha
+
+
+from that is
+
+
+>> they've done 1.6 six to buy back nearly
+
+
+30% as they bought it at $92 and the
+
+
+stock fell 23% on the week in whenever
+
+
+that happens you got to say to yourself
+
+
+that wasn't a good week right it's
+
+
+that's kind of like an inverse bill
+
+
+girly instead of selling stock instead
+
+
+of selling stock and then it goes up you
+
+
+buy stock and then it goes down that's
+
+
+like the IPO premium but the other way
+
+
+it's like oh my god that hurts even more
+
+
+talk about leaving money on the table
+
+
+and I think the aha is to Jason's point
+
+
+they did one thing brilliantly which is
+
+
+figure out they got to product out the
+
+
+door. Maybe they should have sat on
+
+
+their capital for another 6 or 12
+
+
+months, kept it in reserve to maybe buy
+
+
+another AI product or invest behind
+
+
+their AI product because I don't think I
+
+
+think these stocks are going to bounce
+
+
+around in value trap land for a long
+
+
+time. So now you we may be wrong if they
+
+
+if they really nailed their growth on
+
+
+the new product and the low and the kind
+
+
+of vibe coding product really
+
+
+accelerates and you know you look back
+
+
+six months from now and you know
+
+
+growth's at 15% and the stock's way up
+
+
+you'll go oh yeah it was fine it was
+
+
+just the next day reaction thing but the
+
+
+the point is fix the Jason problem which
+
+
+is core growth before you try and do
+
+
+financial engineering you can and in
+
+
+Salesforce don't fix financial
+
+
+engineering is useful, but it's not the
+
+
+solution. In the end, if all you can do
+
+
+is grow at 8%, you can tw you can screw
+
+
+with your balance sheet to your little
+
+
+heart's content. You're never going to
+
+
+matter a dam. As I said, you'll be IBM.
+
+
+They've screwed around with that stock
+
+
+forever, but nobody cares. You got to do
+
+
+the Jason thing first and put all your
+
+
+effort on that. It is tough that, you
+
+
+know, Salesforce did a big buyback, too,
+
+
+right? I think they bought 25 they did
+
+
+25 billion of debt to buy it stock on a
+
+
+spreadsheet. This looks brilliant,
+
+
+right? We can support it, right? Um,
+
+
+yeah, we wish the debt was a little bit
+
+
+cheaper, right? It was a little but but
+
+
+but this is the simplest thing we can
+
+
+do. Retire a significant amount of our
+
+
+shares, right? Drive up our EPS and keep
+
+
+going our agentic transition. But um,
+
+
+arguably, you know, the market at best
+
+
+shrugged it off. At best, it already
+
+
+priced it before it happened, but in the
+
+
+short term, no benefit. All this
+
+
+financial engineering that looks great
+
+
+on a spreadsheet amounted to to nothing
+
+
+in the short term, but 25 billion of
+
+
+debt.
+
+
+>> I totally agree, J. Not only that, but I
+
+
+think one of the big advantages you have
+
+
+as a public company with cash flow
+
+
+positive is your financial flexibility.
+
+
+I wouldn't trade that for anything. Cuz
+
+
+look, one of two things that happens if
+
+
+the AI wave rolls on without a blip,
+
+
+then your stocks and and you don't have
+
+
+a growth story as a public sum, then
+
+
+your stock's going to be cheap two years
+
+
+from now. There's no hurry to buy it.
+
+
+>> Yeah.
+
+
+>> Right. Second thing is if there's a blip
+
+
+then the guy in the market with a public
+
+
+currency and 25 billion in cold hard
+
+
+cash maybe you buy five big things in
+
+
+private land that allows you to compete
+
+
+maybe you buy not a tropic but a second
+
+
+tier financial you know um model maybe
+
+
+you buy one of the big apps companies
+
+
+>> if you can but if you can afford it
+
+
+Salesforce is one of the few people that
+
+
+can make a big bet here it's one of the
+
+
+>> point is this that's why I would have
+
+
+kept my 25 billion in my back pocket
+
+
+right like it's what you
+
+
+ around short term with your
+
+
+stock and the number of shares. The only
+
+
+people who care about that don't matter.
+
+
+You got to win the war. And there's some
+
+
+chance that in the next two years
+
+
+there's a blip in the market. All these
+
+
+AI companies are burning money. And if
+
+
+you're sitting there with $25 billion,
+
+
+you could have been saying, "Come to
+
+
+daddy. I got money. Let's talk about how
+
+
+I'm going to be an AI behemoth." And I
+
+
+think that would be a better use of your
+
+
+time and your money. Come to daddy, I
+
+
+got money. uh on on that topic. Uh Alex
+
+
+Wang uh founder of Scale obviously now
+
+
+at Facebook following the acquisition of
+
+
+scale. Meta debuts Muse Spark first
+
+
+model from Meta Super Intelligent Super
+
+
+Intelligence Labs which obviously Alex
+
+
+runs.
+
+
+I mean the candid like truth is I did
+
+
+okay. It was decent. My question to you
+
+
+on the back of this it was decent. Not
+
+
+quite as good as the others but good
+
+
+enough. Is this Facebook back in the
+
+
+game? And is this a encouraging sign for
+
+
+Facebook where you feel more optimistic
+
+
+post it or less given it didn't blow
+
+
+anything out of the water?
+
+
+I think it's a win. If you're not in the
+
+
+game and then you get back in the game,
+
+
+that's a win. So if you're fifth, you're
+
+
+in the game. I I So I told I mean you
+
+
+read all the reviews, you know, I
+
+
+haven't got hands on the model. I don't
+
+
+have the level of sophistication to
+
+
+evaluate, but I did read a lot of the
+
+
+reviews of people who did. And you're
+
+
+right, the summary is good in some of
+
+
+the things that they were working on at
+
+
+Scale AI a year ago, not so good at some
+
+
+of the newer things that the advanced
+
+
+labs have been developing for the last
+
+
+12 months, which totally makes sense.
+
+
+You took your knowledge from a year ago
+
+
+and you implemented it, right? But I
+
+
+mean, leaving aside the question of does
+
+
+it make sense to be in this game at this
+
+
+level, leaving that aside, if you if you
+
+
+decide as Mr. Zuckerberg that you want
+
+
+to be in this game, then you achieved
+
+
+your mission. You spent $14 billion and
+
+
+you're back in the game. Now you got to
+
+
+move up the league table. But yeah, I I
+
+
+felt this was a few cuz you know had you
+
+
+done all this and you did a lamb of four
+
+
+which was disappointing where people are
+
+
+like it's not even you know credible
+
+
+then you'd have felt like a and
+
+
+you don't. So I think it was a win. Also
+
+
+worth noting that they're talking much
+
+
+being much more closed source which is a
+
+
+significant thing because at some point
+
+
+someone's going to need the American
+
+
+version of open source and LMA was that
+
+
+and now they're pivoting more to being
+
+
+more closed source which has
+
+
+implications across the ecosystem and is
+
+
+a bit of a bummer but yeah know I think
+
+
+it was like a few exhale
+
+
+um not sure why we're playing this game
+
+
+but if we're going to play it I'm glad
+
+
+we're not losing anymore. Stepping back
+
+
+though to where we're going toward the
+
+
+back half of 2026.
+
+
+Um I don't think if I if I'm Zuck and
+
+
+I'm looking that Google owns its own
+
+
+models which have become extremely
+
+
+competitive, right? Um that's that's one
+
+
+of my big direct and adjacent
+
+
+competitors. If I want to be in the big
+
+
+leagues, maybe I just have to own this.
+
+
+Like I don't I don't I'm not Apple. I I
+
+
+don't want to be stuck buying tokens
+
+
+from Anthropic or OpenAI. I'm Meta. I
+
+
+have the one of the dominant consumer
+
+
+advertising in other platforms on the
+
+
+internet. I have the dominant social
+
+
+networks and I sure better own I sure
+
+
+better own this. It turns out it is not
+
+
+a commodity. And maybe maybe maybe this
+
+
+is it's way too much money down the
+
+
+drain, but this is this is core to our
+
+
+existential existence just like it is
+
+
+for Google. And I don't I don't want to
+
+
+wither. I don't it may that may not have
+
+
+been where this all started, right? Um
+
+
+but the goal of Facebook is not to
+
+
+provide uh API tokens like anthropic.
+
+
+This is this is not the the direct goal,
+
+
+right? Or it certainly isn't to uh to
+
+
+encourage the open source community to
+
+
+rise up and use meta products. Um, this
+
+
+is to stay in the top echelon of of
+
+
+software of of consumer software
+
+
+companies and it's worth 14 billion.
+
+
+It's worth 14 billion, right? If you
+
+
+just don't want to be become Apple and
+
+
+dependent on everyone else's models, you
+
+
+just don't want to be that, right? And
+
+
+um, you know, if you can just do better
+
+
+than the the Kimmy open-source, etc.
+
+
+stuff Cursor is doing, it might be worth
+
+
+it just for that. just just to be in
+
+
+that in that in that zone between what I
+
+
+can just rework purely from open source
+
+
+into what I can buy from anthropic if
+
+
+I'm close enough and this is my core it
+
+
+might it might be worth owning
+
+
+ruthless this is as competitive a
+
+
+company as exists on planet earth right
+
+
+this might be the most competitive
+
+
+company on planet earth is meta right
+
+
+ruthless
+
+
+>> yeah I mean if you look at if you look
+
+
+at this if you look at the big play
+
+
+scoreboard for that it's like bet a
+
+
+billion on Instagram win 100 billion
+
+
+plus maybe 400 billion bet 70 billion on
+
+
+Meta um and the V are lose it all. Bet
+
+
+14 billion on this and clearly have a
+
+
+win and you know somewhere in the middle
+
+
+between those two outcomes and you feel
+
+
+good. I agree. The other thing just and
+
+
+again it's not totally my expertise but
+
+
+when when again when I look back when we
+
+
+started this show a lot of folks thought
+
+
+AI would kill Google search and maim
+
+
+Facebook that Facebook was dying as a
+
+
+platform and that why Google search was
+
+
+of course dead chat GPT was going to
+
+
+destroy Google right fast forward today
+
+
+these are record growth businesses now
+
+
+right Google search we started the show
+
+
+talking about AI overviews and other
+
+
+things and Google search is a better
+
+
+business than it has ever been as is
+
+
+Facebook and Instagram so it makes sense
+
+
+to to to triple down there. This is not
+
+
+a time to retreat. This is not a time to
+
+
+retreat for either of them. It is not a
+
+
+time to retreat. It is a time to get
+
+
+that lance out, go straight into battle,
+
+
+just knock knock those other guys off.
+
+
+>> Meta surpassed Google, I'm sure you both
+
+
+saw, is the largest ads engine in the
+
+
+world. I think met 243 billion.
+
+
+>> I didn't kill it yet.
+
+
+ hope that stock price comes
+
+
+back.
+
+
+Um, speaking of ads engine, Open AI
+
+
+projects 2.5 billion in ad revenue for
+
+
+2026. The ads pilot was 100 million
+
+
+annualized in just 6 weeks. There were
+
+
+600 advertisers. We touched on it
+
+
+before, but they're guiding to 11
+
+
+billion in 2027,
+
+
+25 billion in 28, 53 billion in 29. Is
+
+
+ads the great comeback for open AI in H2
+
+
+2026? Is this the shining light that we
+
+
+should be directed towards?
+
+
+>> It's both obvious and inevitable that a
+
+
+consumer product like OpenAI Chptd is
+
+
+going to have to be ad supported. So
+
+
+yes, they're making the moves exactly
+
+
+the moves you'd expect, right? And yeah,
+
+
+the and the little chatter of, oh my
+
+
+god, that's a bad idea or it's not doing
+
+
+enough that we saw from before a few
+
+
+weeks ago, it's all said. This is just
+
+
+going to happen. Three people have done
+
+
+it at super scale already. Google has
+
+
+done it in 2004 on um Meta themselves
+
+
+have done it in 2008
+
+
+really 200 probably seven and eight on
+
+
+in 2012 in mobile and then Am we always
+
+
+forget Amazon I think got to about 100
+
+
+billion plus on ad revenue in the last
+
+
+you know kind of half a decade or
+
+
+probably seven or eight years at this
+
+
+point right so the the movie is clear
+
+
+right and yes they got to get and
+
+
+they're talking about getting to hundred
+
+
+billion dollars in four years it all
+
+
+makes sense right The funny thing is,
+
+
+and I looked at all that and I thought,
+
+
+"Yep, that t and I'm, you know, it's
+
+
+funny. I'm mentally giving them 100%
+
+
+credit for getting that opening eye is
+
+
+typically not unaggressive in its
+
+
+projections. So, let's assume this
+
+
+progressives are aggressive." You this
+
+
+going to sound really awful and I hate
+
+
+even saying it. Oh my god, 100 billion
+
+
+is amazing, but it's not enough relative
+
+
+to the market cap. In other words, so
+
+
+the bigger hop for me is you can build a
+
+
+hundred billion dollar ad business
+
+
+in chat GPT which makes sense and in the
+
+
+context of a total trillion dollars of
+
+
+total ads with Meta already having 300
+
+
+of that, Google already having 200 ad,
+
+
+Amazon already having 100 of that and
+
+
+TV's got to eat too, you know, right?
+
+
+That's probably a realistic high-end
+
+
+estimate, right? What it means is you
+
+
+need another 100red billion plus from
+
+
+your enterprise business. That was the
+
+
+big aha for me is consumer alone ain't
+
+
+going to be enough to feed this beast
+
+
+because your competitor who's all in on
+
+
+enterprise is you know already at 30
+
+
+right and you're so that was my as I say
+
+
+I I almost feel like a jerk saying it's
+
+
+like hey congratulations on your hundred
+
+
+billion dollar ad business probably one
+
+
+of the three or four best ad businesses
+
+
+ever one of the best launches ever but
+
+
+it may be that corporations want to buy
+
+
+more intelligence than consumers do and
+
+
+that 100 billion consumer ads won't
+
+
+support your burn. You need more.
+
+
+>> The 100 billion is what 15% of ad spend,
+
+
+right? Of
+
+
+>> 10. 10 at a trillion worldwide.
+
+
+>> 10 something 15. I I like this as a goal
+
+
+for 2030 cuz it's clear what people
+
+
+should be doing. We can't just add 100
+
+
+million of ads to chatb.
+
+
+We have to build something that is as
+
+
+essentially as big as several of our
+
+
+competitors. It's well understood why it
+
+
+works. We're not directly in commerce.
+
+
+We don't have the advantages that Amazon
+
+
+does, right? Um, but can we achieve the
+
+
+scale of of Facebook and others? Yes.
+
+
+This is our job. This is our job, guys.
+
+
+And every week we're going to iterate on
+
+
+it. We're going to improve it. We're
+
+
+going to make it better. It is
+
+
+mathematically possible. This is not as
+
+
+aspirational as the enterprise stuff,
+
+
+right? It's mathematically possible.
+
+
+This is our effing job. We're going to
+
+
+review it every week. We're going to put
+
+
+some of our best team on it. And, you
+
+
+know, it's it's doable. And if it comes
+
+
+up short a year or two like Elon, I
+
+
+mean, it would suck for the IPO, but
+
+
+it's not the it's doable. It is
+
+
+achievable, right? And so I think
+
+
+because it is achievable, it will be
+
+
+achieved. I actually think it will be
+
+
+achieved.
+
+
+>> I I think you're you're exactly right.
+
+
+And it's clarity a whole bunch of things
+
+
+they've been lacking.
+
+
+>> Clarity on the enterprise side. I will
+
+
+say one thing. You know, there was this
+
+
+memo from this week that that that
+
+
+leaked from Denise Dresser, right? Who's
+
+
+the CRO president saying, "Wow, well,
+
+
+first of all, Anthropics overstating
+
+
+their revenue. We're still ahead." And
+
+
+saying, "Hey, we have all you know, we
+
+
+have the capacity. They're out of
+
+
+capacity." And blah, blah, blah. Okay.
+
+
+At first blush, this memo to me, I mean,
+
+
+it it's it it it seemed like a flashback
+
+
+to something that Mark Benoff might
+
+
+write, who I love, but more appropriate
+
+
+for Salesforce than for OpenAI when I
+
+
+first read it, right? And her last gig
+
+
+was CEO of Slack, right? So, my first
+
+
+blush, I thought it seemed out of place
+
+
+at an AI leader, but then I thought
+
+
+about it and I'm like, this is the exact
+
+
+type of messaging you want to win
+
+
+traditional enterprise customers. So,
+
+
+I'm pretty bullish actually on OpenA in
+
+
+the enterprise because all this
+
+
+enterprise DNA they have which probably
+
+
+didn't help a snail's a snail's inch the
+
+
+last 12 months in the future when all
+
+
+the models are so powerful and big
+
+
+enterprises are trying to make decisions
+
+
+between a couple of top brands. I think
+
+
+I think the ability to
+
+
+sell this directly to enterprise versus
+
+
+coming in from the bottom coming in
+
+
+through the CTO coming through the other
+
+
+coming in from functional groups is
+
+
+going to be very powerful. So I think it
+
+
+may be hiring the you know OpenAI said
+
+
+they're going to double in size right
+
+
+and a lot of it's around selling motions
+
+
+to the enterprise. I think it's going to
+
+
+work. I think they're going to run a lot
+
+
+of the traditional playbook which is
+
+
+going to work better and better in 2027
+
+
+than when it did when the last year was
+
+
+ask your developer. that that was the
+
+
+land and that's why anthropic one ask
+
+
+your developer I want I don't want
+
+
+copilot
+
+
+I want opus and your developer picked
+
+
+everything developer picked it for your
+
+
+app and it you I'm using the old twilio
+
+
+mantra because it worked for years until
+
+
+it didn't and I think it's going to work
+
+
+for LMS until it doesn't until the bud
+
+
+until you go deep into traditional
+
+
+enterprises and if open AI which is you
+
+
+know it's going to be the number one or
+
+
+number two brand for as long as we do
+
+
+this show I think they may be able to
+
+
+outsell it versus uh hey the world's
+
+
+going to end from Daario. Thanks for
+
+
+letting me in the lobby. Everyone's
+
+
+going to be unemployed next week.
+
+
+That one may cast a chill in the CIO's
+
+
+office. Thanks guys for having me. Most
+
+
+of you won't have a job next week. I I
+
+
+would have two comments because I'm I'm
+
+
+not quite in that place. Maybe three
+
+
+comments, right?
+
+
+And one is the one aha I had from this
+
+
+is that you know the the comment on
+
+
+comput is the ball game right is you
+
+
+know whatever about the long-term
+
+
+overinvestment and I still angst about
+
+
+that there's no doubt in my mind that
+
+
+right now
+
+
+everyone is compute scarce and there's
+
+
+going to be no restraint no one's going
+
+
+to blink on their investments for 2026
+
+
+you actually know the next four quarters
+
+
+of Nvidia announcement you know the next
+
+
+four quarters of everyone one of the
+
+
+infrastructure advant which is every
+
+
+single thing we can make if you can
+
+
+count the wafer starts at TSMC you can
+
+
+predict Nvidia's revenues everything is
+
+
+going to be sold out from now and for
+
+
+the next 12 months because if the rate
+
+
+limiting constraint is compute then
+
+
+everyone's just going to buy compute
+
+
+right so that was the first big thing
+
+
+computable and yeah they've got some
+
+
+interesting position relative to
+
+
+anthropic in that they were more
+
+
+aggressive so they have more compute so
+
+
+yeah that's that that's one thing it
+
+
+also means by the way the second
+
+
+consequence is you're going to see some
+
+
+compute ration people are going to start
+
+
+allocating tokens to the highest
+
+
+effectively the highest bidder. You're
+
+
+going to see a lot of throttling like
+
+
+you're going to see these plans like
+
+
+that's why they shot Sora. You're going
+
+
+to see some of the clawed plans get
+
+
+throttled down. You know that's what
+
+
+money is for. It's to allocate scarce
+
+
+resources. It's actually the definition
+
+
+of economics. It's the study of the
+
+
+allocation of scarce resources right and
+
+
+they're going to start allocating those
+
+
+scarce resources of compute via price.
+
+
+So that's one big trend. Um, the second
+
+
+one, I don't know if you're going to see
+
+
+that level of flip from, oh my god, it's
+
+
+all entropic to oh my god, it's open AI.
+
+
+I think it's a two-way fight. H,
+
+
+entropic has the advantage of clarity
+
+
+and focus.
+
+
+Open AAI has the advantage of the
+
+
+consumer business, right? And they're
+
+
+going to have to slug it out, right? I
+
+
+think hang on but I I I think Antropic
+
+
+has the the little just the way they've
+
+
+played the last 12 months have a
+
+
+slightly better lead right now both in
+
+
+terms of perception and in terms of
+
+
+developer friendliness but open eyes is
+
+
+not going to roll away and die right I
+
+
+think I want to come back to a point I
+
+
+made earlier which
+
+
+I've only processed true now but
+
+
+sometimes it's important to say the big
+
+
+ very clearly right if you do
+
+
+consumer versus enterprise typically the
+
+
+biggest things have been a cons I mean
+
+
+If you look at you Google, Google's
+
+
+consumer business and ads is twothirds
+
+
+of the value and you know maybe the
+
+
+cloud is maybe one/ird roughly right and
+
+
+the big money has been in consumer right
+
+
+bear with me when I say the obvious but
+
+
+consumers actually don't want to they
+
+
+want really great chat GPT there might
+
+
+be some models like you know kind of
+
+
+friends and companion models but
+
+
+fundamentally when I go home I want to
+
+
+buy Netflix when I go to work I want to
+
+
+buy intelligence it may well be that
+
+
+that the zoom out comment from all this
+
+
+ is enterprise is twothirds of the
+
+
+ball game in AI and consumer is oneird
+
+
+or less which is the flip of the last
+
+
+time because you would have thought two
+
+
+years a three years ago when chachi PT
+
+
+exploded that that was a really great
+
+
+launching point right but if in fact
+
+
+enterprise is the better place then yeah
+
+
+you're going to have a good consumer
+
+
+business but the ball game may be
+
+
+compute but the ball game from a
+
+
+customer's perspective may be two/3s
+
+
+enterprise one/3 consumer which is the
+
+
+mirror opposite of the internet. And
+
+
+that's just one of those huh big picture
+
+
+comment because I realize I don't go
+
+
+home and want to do cognition. I go home
+
+
+and I want Netflix. I go to work and I
+
+
+want thinking and they're selling
+
+
+thinking. It's an enterprise business.
+
+
+And by the way, you get into a really
+
+
+fun and interesting discussion which is
+
+
+above my pay grade, but I started to see
+
+
+comments about it is do the things you
+
+
+do to make a consu the model consumer
+
+
+friendly, you know, the happy like does
+
+
+the same model continue to work really
+
+
+amazingly well for both? You know, if
+
+
+the enterprise wants clarity and
+
+
+concision, if the consumer wants a
+
+
+little more friendly answers, do you
+
+
+really find that divide the tone and the
+
+
+persona of the consumer model and the
+
+
+enterprise model start to become
+
+
+different? I don't know if that has
+
+
+implications, it's above my pay grade,
+
+
+but it's in a category of something to
+
+
+think about.
+
+
+>> I think I think very much so. And I
+
+
+think you've seen it on like consumer
+
+
+research studies. So, they've seen that
+
+
+actually younger people like Open AI
+
+
+because it's much more supportive of
+
+
+their emotional challenges
+
+
+>> and in you're exactly and in and in
+
+
+business. I don't want support. I want
+
+
+to be told these five things are good
+
+
+and these three things are bad. Like
+
+
+when we're doing investing, we don't
+
+
+want supportive. We want decision. It's
+
+
+almost the exact opposite. I want harsh
+
+
+critique. This is a stupid deal. I want
+
+
+the AI to say, "This is a stupid deal,
+
+
+Rover. You looked at this three years
+
+
+ago. It was dumb then, it's dumb now.
+
+
+Stop, you idiot. Here are five
+
+
+fact-based reasons why this is wrong."
+
+
+And if you give that in a consumer app,
+
+
+you're not going to have great lifetime
+
+
+value or retention.
+
+
+>> That was interesting. You know, Aaron
+
+
+Levy had a had a tweet this year this
+
+
+week about his latest road show meeting
+
+
+with CIOS from Box. And um he talked
+
+
+about how so many of the CIOS meeting
+
+
+with now are are are token maxing. And
+
+
+what he meant was they are now they are
+
+
+they are creating ideally fixed token
+
+
+budgets really. I you know they're
+
+
+they're dollar budgets rather than
+
+
+numerically tokens for the coming year
+
+
+and they're making the departments fight
+
+
+it out per project. Now, this is where I
+
+
+think the game is going to change again
+
+
+with the leaders because when most of
+
+
+the budget is essentially rogue, when
+
+
+it's developer teams picking anthropic
+
+
+almost universally last year, when
+
+
+you're giving them the budget because
+
+
+the the throughput is so intelligent,
+
+
+you're finding budget for that team. Um,
+
+
+or you're using discretionary budget to
+
+
+bring in to bring in little agents. It's
+
+
+one thing. When the CIO takes control
+
+
+again of how many tokens across a large
+
+
+enterprise, that's a very different
+
+
+calculus of which vendor I choose from.
+
+
+And if the CIO prefers to buy OpenAI
+
+
+because it's got a more traditional
+
+
+sales motion, it's packaged better. It's
+
+
+better used. And there will be
+
+
+exceptions. There will be exceptions in
+
+
+departments. They will get exceptions.
+
+
+But overall for the enterprise, I'm
+
+
+standardizing on OpenAI for 2028. It is
+
+
+the right choice for our Fortune 2000
+
+
+company. It's just a different world
+
+
+when you know whatever the 60 billion in
+
+
+Open AI and ChatB revenue, all the
+
+
+enterprise stuff is still in some sense
+
+
+rogue today. So much of it is rogue. It
+
+
+is out of budget. It is out of band. It
+
+
+and and as that changes, it will change
+
+
+which vendor we buy from.
+
+
+>> If you are correct, and I'm not sure you
+
+
+are, what it says is the people who
+
+
+should go into guidance counseling are
+
+
+Microsoft and Open AI because they need
+
+
+to get their relationship back together
+
+
+again. Cuz who is the dominant path to
+
+
+every single enterprise in the world?
+
+
+It's Microsoft. They need to get some
+
+
+couples therapy. They need to accept
+
+
+that they're different. They have
+
+
+differences but they can reconcile and
+
+
+they need to start because otherwise
+
+
+they're going to get the clock cleaned
+
+
+and that frankly as I think that's an
+
+
+indulgence that OpenAI can no longer
+
+
+afford. Right. And
+
+
+because you're right is that the other
+
+
+guys have stolen the march has stolen a
+
+
+march on the kind of developer love.
+
+
+Microsoft can go top down. I don't care
+
+
+about your long-term competitive
+
+
+dynamics. You need to kiss and make up
+
+
+here people. So if you want it and if if
+
+
+we agree that enterprise is twothirds of
+
+
+the game, Microsoft is the key and so
+
+
+you know figure it out, go to therapy,
+
+
+talk to your issues and get this thing
+
+
+back together again. And then the other
+
+
+comment to make is I just want to give
+
+
+an advert for Aaron is that I I read his
+
+
+tweet last week about his you know
+
+
+comments from the road show and look I
+
+
+said this before we were lucky enough to
+
+
+back Aaron 16 years ago and many years
+
+
+in fact last year we had him back at our
+
+
+invest at our annual meeting just to
+
+
+talk. Erin is a walking investment
+
+
+insight. I mean, I read his tweets and
+
+
+I'm like literally I send it out to the
+
+
+group and say, "This is the latest
+
+
+thinking on what you should be thinking
+
+
+about about what CIOS are thinking
+
+
+about. Just read this and then you'll
+
+
+know, right?" It's just so that was such
+
+
+an insightful tweet about agents. He's
+
+
+not a doomer employment at all. He's
+
+
+like, "People are going to be rolling
+
+
+this thing out and if you understand
+
+
+what they're doing, you will have a role
+
+
+here." And he has a really good feeling
+
+
+that you he talked about token maxing.
+
+
+It's like beyond
+
+
+Silicon Valley, there are going to be
+
+
+meaningful budgets. there are going to
+
+
+be constraints and this thing, you know,
+
+
+just a real sense of how CIOS on the
+
+
+front line are rolling out AI. I just I
+
+
+just think it's excellent. So, I I
+
+
+follow him all the time.
+
+
+>> I thought it was so excellent. I
+
+
+actually messaged him and said, "Do you
+
+
+want to come on the show this week and
+
+
+do it?" And he said, "I would love to.
+
+
+Let's do it tomorrow." And that was this
+
+
+morning. So, I'm actually doing a show
+
+
+with him tomorrow about this tweet
+
+
+thread.
+
+
+>> He's in that rare combination of
+
+
+frankly, you know, grounded enough in
+
+
+terms of 15 years calling on CIOS. 15
+
+
+years calling on CIOS to really know
+
+
+what they think and at the same time
+
+
+frankly young enough and flexible enough
+
+
+to really understand what AI is doing.
+
+
+It's literally like an investment
+
+
+insight. It's like a one of my
+
+
+colleagues even said it when he spoke
+
+
+last it was like he said literally it
+
+
+was like having an invest it was just
+
+
+like an investment memo spewed out on
+
+
+enterprise AI. Good for you.
+
+
+>> Yeah. Here's the thing now. Just the one
+
+
+tough thing and I I almost don't want to
+
+
+say it uh because I love
+
+
+>> you can say it.
+
+
+>> But if he can't reacelerate box with his
+
+
+incredible depth of like 10 out of 10,
+
+
+right? If he can't re what hope is there
+
+
+for so many other leaders, so many other
+
+
+unicorns and others if he can't get
+
+
+boxed to 20 to 30% growth, I'm I'm
+
+
+giving up on on the rest of the world.
+
+
+>> It's a totally fair comment. given up.
+
+
+>> Absolutely.
+
+
+>> And I and I hope he is I I look I admire
+
+
+them so enormously for and I really hope
+
+
+they can reacelerate,
+
+
+>> right? Because I do think he's
+
+
+>> he knows everything that's happening and
+
+
+he's not pretending. He's not he's not
+
+
+he's not like so many folks are
+
+
+pretending as engaged he's ever been,
+
+
+right? As stressed as he's ever been. He
+
+
+can't work any harder. If he can't get
+
+
+this reacelerated,
+
+
+uh good god, who the hell can who who
+
+
+the hell can? We had the financials for
+
+
+SpaceX leaked a 5 billion loss on 18.5
+
+
+billion in revenue. The reason it's so I
+
+
+think important for the audience is
+
+
+there are so many endowment funds and
+
+
+managers who hold SpaceX in some way who
+
+
+are awaiting the IPO later this year. Um
+
+
+the loss is driven by the XAI
+
+
+acquisition not by operations important
+
+
+to add. Uh but the $2 trillion potential
+
+
+IPO is a big number and the math needs
+
+
+to be worked out.
+
+
+>> Okay, keep going.
+
+
+So 18.5 billion in revenue at 2 trillion
+
+
+is 108x.
+
+
+Did these numbers change a perspective?
+
+
+Did they confirm a opinion? Didn't
+
+
+change confirmed.
+
+
+But let's break it apart a little bit.
+
+
+The first is okay all technical
+
+
+accounting on you now. Right. I can't
+
+
+when did XAI close? Because pulled
+
+
+accounting is gone. Pul County doesn't
+
+
+exist anymore where you retroactively
+
+
+recast the financials as if the
+
+
+companies were together. So that's only
+
+
+the loss from when XAI was acquired,
+
+
+right? And I think it was late last
+
+
+year, early this year. So we actually
+
+
+don't know the actual run rate, right?
+
+
+Do you understand me? In other words, if
+
+
+the deal closed in in October 1st, then
+
+
+that would only reflect one quarter of
+
+
+loss. So anyone hypothesizing on it's
+
+
+profit or it's profit excluding that or
+
+
+it's only or it's quote unquote only a
+
+
+$5 billion loss until I see the actual
+
+
+gap financials I don't know right
+
+
+let's start with
+
+
+>> it could be 20
+
+
+>> right exactly
+
+
+>> $20 billion loss
+
+
+>> but but it but I think the rough
+
+
+trajectory of it will be something like
+
+
+the following
+
+
+we have an amazing we have a an amazing
+
+
+launch business with a near monopoly on
+
+
+cost effective launch and that price
+
+
+could come down with the next generation
+
+
+rocket
+
+
+We have an amazing business on Starlink.
+
+
+I think the ex the whole XA in
+
+
+retrospect I think you'll look back and
+
+
+go I'm not sure I would have paid 250
+
+
+billion for XAI. And then the question
+
+
+as you say is how do you value that
+
+
+relative to 100 times revenues and you
+
+
+know we've talked about this before. I'm
+
+
+not going to say it's right or wrong
+
+
+because I think what I would say is
+
+
+obviously very few things trade at 100
+
+
+times revenues for any extended period
+
+
+of time. Let's just say that. So, it's
+
+
+clearly underwriting a level of growth.
+
+
+It's underwriting a reaceleration of
+
+
+growth even of the Starlink business,
+
+
+which is plausible based on the future
+
+
+things they're doing, but feels like a
+
+
+lot, he said gently.
+
+
+>> It appears to be the most expensive IPO
+
+
+at scale of all time.
+
+
+>> Yeah, it appears to have no one at scale
+
+
+that has IPO has ever has ever IPOed at
+
+
+a revenue multiple approaching this,
+
+
+right? I mean the case will obviously be
+
+
+all the future things you know what is
+
+
+space and you read the bold case and as
+
+
+I say as I say I'm trying to avoid the I
+
+
+don't believe it and I try to express my
+
+
+concern rather than saying oh I think
+
+
+that's crazy I just say you have a you
+
+
+have the existing business and then you
+
+
+have a series of new initiatives around
+
+
+direct to cellular and all of which and
+
+
+then obviously data centers in space you
+
+
+can articulate a massive market and
+
+
+the question as I've said before is so
+
+
+you take these adjacent times. And if
+
+
+you give them a 100% probability of
+
+
+happening and a 100% probability of them
+
+
+happening right now, in other words, no
+
+
+NPV because it takes five years to make
+
+
+it happen, then you probably get to $2
+
+
+trillion. If on the other hand, you
+
+
+apply a probability of it not happening
+
+
+in a time value of money, you get to a
+
+
+lower number. And maybe that's a good
+
+
+way to reduce it. I mean, the Elon
+
+
+believers are saying, "These are the
+
+
+future things, and I ascribe 100%
+
+
+probability of success." And it's like,
+
+
+I'm going to give them credit for today,
+
+
+even though it's going to take three or
+
+
+four more years. And so it's basically
+
+
+the Elon discount rate. The Elon
+
+
+discount rate is zero. And the Elon
+
+
+probability of failure rate is zero to
+
+
+get to 2 trillion. If you put a more
+
+
+conservative number in both of those,
+
+
+you probably end up in a different
+
+
+place. You still have the upside. You
+
+
+still have the long-term story, but are
+
+
+you getting paid for the risk? And
+
+
+that's a way of framing it. That's not,
+
+
+oh, I think it's silly because a 100
+
+
+times revenues is just too much. I think
+
+
+that's a reductionist argument. I think
+
+
+that what's really what you're really
+
+
+saying is I'm looking at all this future
+
+
+time and perhaps being more sober about
+
+
+the probability of it happening. I'm
+
+
+revising my prior from oh 100 is crazy
+
+
+which is just too simplistic Rory to
+
+
+what are you saying about these other
+
+
+markets when you feel that it should be
+
+
+at 30 times revenue you're effectively
+
+
+saying maybe it takes four years for the
+
+
+data centers to happen and the direct to
+
+
+sell to happen and maybe the discount
+
+
+rate for that is 15% and maybe the
+
+
+probability of success is 70 but not 100
+
+
+and pretty you know you multiply all
+
+
+that you got to get paid for the risk
+
+
+Jason, what topic do you think we should
+
+
+discuss that we have left?
+
+
+>> Um, some private stuff.
+
+
+>> There's uh uh some private stuff.
+
+
+>> No, some private market stuff. Simple
+
+
+humble venture
+
+
+>> The first for what it's worth, the topic
+
+
+I put, but I actually I don't think it's
+
+
+as interesting as a larger topic.
+
+
+Appleven 898 employees. This is this is
+
+
+this is not a brand new AI company. Last
+
+
+week, 4.5 million revenue per head. I've
+
+
+been thinking a lot about this. You
+
+
+have, you know, the block memo and and
+
+
+what Jack Dorsey wants to do and you
+
+
+have, you know, every Andre chart of the
+
+
+week is showing how efficient the next
+
+
+generation is, right? How 11 Labs and
+
+
+everyone's so efficient. Um, just the
+
+
+meta thing. My captain obvious learning
+
+
+from all the conversation I have is um
+
+
+it's a choice.
+
+
+Everyone wants to be small by choice.
+
+
+And this is what I think is going to be
+
+
+disruptive for the next year and a half.
+
+
+As VCs, you get really excited when you
+
+
+see an efficient company because all
+
+
+things being equal, hey, they don't need
+
+
+to fund raise as much. I'm going to be
+
+
+diluted less. Um, it's less risky,
+
+
+right? Everyone loves, everyone wants to
+
+
+invest in the next version of Viva. We
+
+
+raised three 3 million and got to 30
+
+
+billion. That's the no matter what
+
+
+anybody says, that's the venture dream.
+
+
+That's good.
+
+
+>> We raised three million and we're worth
+
+
+30 billion. I don't care what you do.
+
+
+Absolutely. Yeah. Whether it's bagels or
+
+
+healthcare software, three. So, we want
+
+
+and and so we see hints of this in this
+
+
+employee thing. Um it's not quite that
+
+
+simple when the gross margins are lower,
+
+
+but I think what I I'm seeing everywhere
+
+
+is everyone just wants to be smaller by
+
+
+choice. They just and and AI is an
+
+
+enabler because it lets my best
+
+
+engineers do more. AI is an enabler
+
+
+because I can get rid of those SDRs. Um,
+
+
+but um,
+
+
+>> Jason, I I actually tweeted last night,
+
+
+"The core test when evaluating a team is
+
+
+knowing what I know now about the person
+
+
+having worked with them, would I hire
+
+
+them again?"
+
+
+>> Yeah.
+
+
+>> And you said that's not the question.
+
+
+What did you say was the question? Would
+
+
+I replace them with an agent? Would I
+
+
+rather work with them or replace them
+
+
+with an agent? It's the same thing. I'd
+
+
+rather I'd rather have an agent than a
+
+
+mediocre person. Right. Everyone thinks
+
+
+that. Everyone think Not everyone says
+
+
+it out loud. But provided it wasn't a
+
+
+mediocre agent as you've articulated
+
+
+earlier.
+
+
+>> Yeah, but I know how to build a good
+
+
+agent now.
+
+
+>> Okay.
+
+
+>> As well, everyone in 18 months, they
+
+
+don't know how to today. Everyone in 18
+
+
+months will figure out how to build an
+
+
+AA because they'll get easier and easier
+
+
+to train. Like, and we we touched on
+
+
+this briefly, but like you don't need
+
+
+prompt engineers anymore, right? Um like
+
+
+I built a for fun yesterday on Replet, I
+
+
+built a fully functional website in
+
+
+about six minutes that has video, audio,
+
+
+and everything. My prompt was um create
+
+
+create create create a whole website
+
+
+around my theme of the recycled mediocre
+
+
+in this post. Recycled mediocre or when
+
+
+you keep hiring the same mediocre folks
+
+
+again and again. And it it did the whole
+
+
+thing from that prompt. It created the
+
+
+whole site. Pulled up which mate can't
+
+
+do. Pulled up all the context, created
+
+
+an incredible horror image, then created
+
+
+the video out of it, then created the
+
+
+connection, then pulled up all the
+
+
+context. And so my point there is you
+
+
+don't need to you the most mediocre
+
+
+prompts in the world do magic. Now, you
+
+
+don't need to be a prompt engineer. And
+
+
+right now, getting an agent to work, you
+
+
+need you need an FTE and it takes weeks
+
+
+or sometimes even months and lots of
+
+
+training. It it it's not it shouldn't be
+
+
+true in 18 months, right? It should be
+
+
+as magical as prompts are today. So, I
+
+
+think we're all going to be good at
+
+
+agents in 18 months. And so, we're all
+
+
+going to say to Harry's point, do I want
+
+
+to work with that person again or would
+
+
+I rather replace them with an agent?
+
+
+We're going to it's not and it's not
+
+
+about the money. We're just going to
+
+
+choose to be leaner. We're going to
+
+
+choose to be leaner for many reasons. I
+
+
+think you are right on the
+
+
+directionality, right? I just want to
+
+
+make a kind of a a a business point
+
+
+which is the simplistic revenue per
+
+
+employee is just not a useful metric
+
+
+because uh you know you you know you
+
+
+can't compare the efficiency like
+
+
+someone like a cursor has very low
+
+
+employee count but very massive gross
+
+
+margin count right gross margin cost of
+
+
+sales right I mean watch this cursor
+
+
+does 4 million per employee Salesforce
+
+
+does 700 per 700,000 per employee oh
+
+
+cursor must be more efficient well it
+
+
+turns sell for us a 30% operating
+
+
+margins and cursor is losing a lot of
+
+
+money. Why? Because they spend a whole
+
+
+ton on tokens, right? So, it's not I
+
+
+mean you can compare B companies in the
+
+
+same business on an efficiency metric,
+
+
+but the one the one shot I mean I one
+
+
+shot fits all revenue per employee
+
+
+doesn't really cut it, right? Um that
+
+
+said, two comments. One is Apploven is
+
+
+what Apploven is amazing business
+
+
+because they actually have fairly high
+
+
+gross margins and low employee count.
+
+
+They're just one. It's one of those
+
+
+businesses where I've Yeah. You just
+
+
+have to go away and understand how it
+
+
+fits at that interstitial moment in
+
+
+mobile ad networks. And it just it's
+
+
+it's the only at this point given Trade
+
+
+Desk's downturn, it's the most
+
+
+successful ad network business by far.
+
+
+And we could digress onto why that is,
+
+
+but it's a one-of-a-kind business. It's
+
+
+it's a 4.5 million per whatever it is
+
+
+per employee business where unlike
+
+
+Atropic are opening at no capex, unlike
+
+
+cursor, no token cost. It's just a money
+
+
+printing machine. Um I'm jealous. But
+
+
+Jason, the second com is you are exact
+
+
+still you're still exactly right is that
+
+
+the trend everywhere is grind down the
+
+
+headcount. Do you need them? What can be
+
+
+automated? So you know the truth. So
+
+
+maybe reflecting in my own mind maybe
+
+
+the way to say it is it's not fair to
+
+
+say to a SAS company, hey um you know
+
+
+apploven does 4 and a.5 million curs and
+
+
+a half million. You know 500,000. But
+
+
+what is fair to say is last year you
+
+
+were at 500,000. This year you better be
+
+
+at 600,000 per employee because Jason's
+
+
+telling you and next year maybe you got
+
+
+be at 800. Right. So I do agree the
+
+
+metric if you're not making progress on
+
+
+that metric as a software company you
+
+
+are not with the program. So in that
+
+
+basis I think you're right.
+
+
+>> Obviously I'm I'm just sapping off the
+
+
+knowledge of smarter people than me.
+
+
+Would you buy out love today?
+
+
+>> I don't know now. I mean, you always
+
+
+worry ad network ad network businesses
+
+
+over the medium-term get ground down,
+
+
+but it's been able to survive for the
+
+
+longest time. It's gotten rid of its
+
+
+game business. It's purely focused on
+
+
+this. And you know, for some reason,
+
+
+it's found a way to exist in the Apple
+
+
+ecosystem with all the privacy issues as
+
+
+being the only way to do some of this
+
+
+targeting. So, I need to know I need to
+
+
+spend a lot more time thinking about it,
+
+
+but it's been an astonishing run for it.
+
+
+It's probably the standalone the biggest
+
+
+beneficiary of mobile networks, mobile
+
+
+ads clearly mobile ads, you know, after
+
+
+maybe Meta and that. Yeah, amazing win.
+
+
+There's two that I just wanted to touch
+
+
+on. One was Toma Bravo shutting down the
+
+
+growth equity business and is this uh
+
+
+foreshadowing of a load of other growth
+
+
+equity businesses shuttering or is this
+
+
+just Toma Bravo independent?
+
+
+>> Well, first before you guys answer, can
+
+
+you educate me because I'm I'm ignorant.
+
+
+I don't understand the whole tommo bravo
+
+
+empire and what it truly means they're
+
+
+shutting down growth equity versus the
+
+
+other vehicles. I don't understand it.
+
+
+>> I think it's pretty straightforward. The
+
+
+core business that puts 90% of the money
+
+
+on the table is buying control positions
+
+
+in software companies and you know with
+
+
+some leverage and running them you know
+
+
+adding doing build and add-on other
+
+
+companies to them and ultimately selling
+
+
+them either to another PE buyer. That's
+
+
+most of what they do. it's 90% of the
+
+
+money. They started doing non-control
+
+
+and minority positions in latestage high
+
+
+companies
+
+
+and it's just a different business. But
+
+
+I just think it's different enough
+
+
+from the control like in in a control
+
+
+position business you're trying to
+
+
+you're trying to buy value. You know, we
+
+
+may look back and say many of the prices
+
+
+they paid for those control positions in
+
+
+21 and 22 weren't value, but you're
+
+
+trying to buy value where you have
+
+
+control and you're going to be EBDA
+
+
+positive and you're trying to pay down
+
+
+the debt and do all those things. You
+
+
+know, classic venture growth. You're
+
+
+still hopefully growing 50 to 100%
+
+
+minimum per our discussions. You're
+
+
+probably still losing money. You're not
+
+
+in a controlled position as the PE
+
+
+investor. And in a period like right now
+
+
+where your core business is threatened,
+
+
+the first rule of threaten is you
+
+
+retreat to the core. PE guys regularly
+
+
+come into growth venture at the top of
+
+
+markets thinking this looks easy and
+
+
+they regular retreat from those markets
+
+
+when they discover it's hard, right? And
+
+
+and
+
+
+>> shouldn't they be going back in in 2026?
+
+
+Isn't this a time to to be re-entering?
+
+
+>> Possibly. But and again, not but two
+
+
+reasons why not. One is your core
+
+
+business is under threat. is that you
+
+
+don't and you you know the the one thing
+
+
+you don't want to be doing with your
+
+
+investors is saying we have this thing
+
+
+that 90% of your money is in but we're
+
+
+fussing around with this other 10% even
+
+
+if it's a good business it doesn't
+
+
+matter right we gave you $10 billion to
+
+
+invest in control positions in software
+
+
+companies and we gave you half a billion
+
+
+dollars to screw around doing something
+
+
+else you're having problems in your core
+
+
+business how about you fix that it
+
+
+doesn't even rise to the level of is it
+
+
+a good opportunity or not it's not the
+
+
+opportunity we have end up
+
+
+>> you said ret you said retreating to core
+
+
+Rory I I completely completely agree
+
+
+with you. Core is business. I'm sorry
+
+
+I'm not I'm never on
+
+
+businesses, but challenge businesses
+
+
+like Kooper, like Anna Plan, like
+
+
+Medallia. I mean, I would say,
+
+
+>> can you help me? Like, this feels like a
+
+
+cluster of pain. Separate comment.
+
+
+Yes. I mean, I think look, the one of
+
+
+the things is that well, they're the
+
+
+same type of companies as were hit four
+
+
+in the public market. So the same
+
+
+discussion we had in the public markets
+
+
+applies here. In other words, these are
+
+
+mature plain vanilla SAS companies with
+
+
+singledigit growth rates, right? They're
+
+
+just not traded every day in the public
+
+
+markets are traded in the privates. So
+
+
+the question is what does that mean? The
+
+
+first thing is these kind of companies
+
+
+are trading excuse me at two to four
+
+
+times revenues. Right? So the same
+
+
+equivalent companies in private are
+
+
+probably should be quote value today at
+
+
+that and many of them will bought at 10
+
+
+times and have leverage. Right? So
+
+
+that's a pretty tough place to be. The
+
+
+negative spin is if you apply the same
+
+
+math of three or four times revenues and
+
+
+then deduct the debt, you have little or
+
+
+no enterprise value, right? And that's
+
+
+terrifying. And that means you could you
+
+
+could see big losses in some of these PE
+
+
+funds. Now, the positive spin that they
+
+
+would give, which kind of goes back to
+
+
+Jason's thing, I'm not sure I fully
+
+
+believe it, is if these software marks
+
+
+in the public markets are totally wrong
+
+
+and then two years from now they're back
+
+
+to eight times, then you know it'll be a
+
+
+tree that fell in the forest, no one
+
+
+will know, and in two years time they'll
+
+
+be able to go public with an plan again
+
+
+at eight times. And maybe that happens
+
+
+and maybe not. Um, but that would be one
+
+
+part of the why it's going to be okay.
+
+
+If I was articulating as to braava why
+
+
+it's going to be okay, the first comment
+
+
+would be it's way overdone and these
+
+
+things are really worth eight times
+
+
+revenues because they're profitable and
+
+
+in the end things trade at 15 times cash
+
+
+flow and not nine times we'll all be
+
+
+okay. That's one argument. And then the
+
+
+second argument could be some version of
+
+
+the Jason one which is sometimes the
+
+
+advantage of private ownership is acute
+
+
+clarity. And if you're going to make the
+
+
+transform to AI bet, I bet you these
+
+
+guys are going to articulate that we
+
+
+will make that happen because we will
+
+
+own these things. We will replace
+
+
+management if they're not capable of
+
+
+doing it. We will hire other people that
+
+
+can do it. Maybe we'll buy assets. I'm
+
+
+not sure I buy that, but that's probably
+
+
+part of the argument, which is PE's
+
+
+argument has always been transformation.
+
+
+Right now, the to date the
+
+
+transformation has been about cutting
+
+
+cost and being more efficient. I don't
+
+
+know if they can pull off transformation
+
+
+where transformation is as Jason says
+
+
+taking wicks and adding you know not a
+
+
+six to Jason's point which I realize not
+
+
+adding a 60 if you add a 60% agent as a
+
+
+privately held company you haven't
+
+
+passed the Jason test can they add the
+
+
+question you have to ask these guys is
+
+
+can they add a 100% agent that you can
+
+
+charge for if they can and they rekindle
+
+
+growth to 20 then they'll have earned
+
+
+their massive carry right if they can't
+
+
+and these things don't bounce back then
+
+
+you're right you could have a train
+
+
+wreck and that's the game that's their
+
+
+ball game right now right which is why
+
+
+they're all looking for AI experts it's
+
+
+why on a going forward basis they're
+
+
+pitching buying new companies and kind
+
+
+of AI enabling them but for their
+
+
+existing portfolio it's all about you
+
+
+know what do you add to Koopa or and a
+
+
+plan to make it AI first AI forward at
+
+
+least not AI first on the one hand I
+
+
+think we're going to look back on this
+
+
+and see it's all a shame
+
+
+because if you have 10,000 happy
+
+
+customers customers, 50,000, 100,
+
+
+150,000 who are reasonably happy. Not
+
+
+thrilled,
+
+
+>> but reasonably happy.
+
+
+>> And you've had now 12, 18, 15 months to
+
+
+build them an agentic product. You've
+
+
+had access to the LMS. You've been able
+
+
+to carve out 50 of your best engineers
+
+
+to work on it. And you didn't take
+
+
+advantage of your installed base for
+
+
+real. Not in the moat way, not
+
+
+prisoners, but I mean, if you didn't
+
+
+take advantage of the fact that 90% of
+
+
+your customers are not at the bleeding
+
+
+edge of AI and sell them an agent, this
+
+
+is such a missed opportunity for the
+
+
+leaders. It's tragic. It's tragic
+
+
+because most folks have not made their
+
+
+decisions in agents. It it is and we're
+
+
+going to look back and we're going to
+
+
+see these teams were so mediocre and so
+
+
+paralyzed. And I got to tell you, when I
+
+
+talk with folks so out of ideas, people
+
+
+should not be asking me what they should
+
+
+do with their agents. They should be
+
+
+showing me their agents and asking me
+
+
+for constructive criticism on them.
+
+
+Right? People are are are paralyzed with
+
+
+fear. They don't want to work twice as
+
+
+hard as they used to and they don't know
+
+
+what to build. And it's a tragedy
+
+
+because even today selling to the
+
+
+install base is much easier than finding
+
+
+a new customer. If they're happy,
+
+
+>> yeah,
+
+
+>> just call them up. They will take the
+
+
+meeting. And this is the great tragedy.
+
+
+And I think a lot of private equity
+
+
+firms are probably pretending pretending
+
+
+their playbook's gonna work. I'm going
+
+
+to hire this AI expert from Stebings,
+
+
+Driscoll, and Lumpkin. It's 2 million a
+
+
+year. They're coming in with their ties
+
+
+and their checkered shirts, and they're
+
+
+going to teach us how to do AI and get
+
+
+us to a 60% solution by the end of the
+
+
+year. It slips a bit and it's just it's
+
+
+it's it's a tragedy and I'll tell you
+
+
+why. It's a triple tragedy. Okay, this
+
+
+is something I didn't know. I mean,
+
+
+granted, in my brief tenure at Adobe as
+
+
+a VP, okay, and that was not a high
+
+
+point for Adobe. It was during the
+
+
+transition to the cloud. But I will tell
+
+
+you,
+
+
+>> they said the same
+
+
+>> and I never, you know, I never
+
+
+underestimate competitors or big
+
+
+companies. I got to be careful, right?
+
+
+But I will tell you what I learned at
+
+
+Adobe that folks don't realize. 100
+
+
+surplus amazing engineers either by
+
+
+design or accident. Either by accident
+
+
+they were working on projects that
+
+
+weren't quite going to get there, right?
+
+
+Or they were available. They were
+
+
+available more. Now, sometimes they were
+
+
+on the back half of their career.
+
+
+Sometimes they weren't quite as as ra as
+
+
+as razed as the top engineers at Replet
+
+
+or lovable or cursor, but I mean great.
+
+
+My CTO is the toughest critic would
+
+
+actually say the let's go f let's go
+
+
+steal these five guys. They're actually
+
+
+great. They exist. So it is a crying
+
+
+shame you can't take a team six at an at
+
+
+Koopa at whatever build the world's best
+
+
+product and ship it to your 10 20 50
+
+
+100,000. this it's we're watching
+
+
+tragedies in the making and it it's sad.
+
+
+It's sad because they're still deep down
+
+
+running the dated playbook of a big
+
+
+release every four to five years and a
+
+
+quarter release which changes a few
+
+
+pixels and adds some workflow. They're
+
+
+deep down all the companies I've talked
+
+
+to are still running that playbook and
+
+
+it's a tragedy because they have they
+
+
+have they have the opportunity but
+
+
+Stebins Driscoll Lmin AI consulting is
+
+
+not going to get them there and that's
+
+
+who PE firms want to do bring in these
+
+
+guys. it that's not going to work. And
+
+
+and everyone is right. They have the
+
+
+base. They have the opportunity. And um
+
+
+you know, and they're going to end up in
+
+
+these medallia death spirals where
+
+
+they're defaulting on on debt and
+
+
+defaulting on billions of dollars and
+
+
+and and they can't they can't afford it
+
+
+and they don't and it's just and um
+
+
+>> it's not too late to sell sell to your
+
+
+install base.
+
+
+>> To make the to make the math work on the
+
+
+LBO, they don't need to attract a whole
+
+
+bunch of new customers. You know, they
+
+
+they already once you do the PE deal,
+
+
+you've already accepted that you're not
+
+
+trying you're not a growth story
+
+
+anymore. But to Jason, Jason Jason's
+
+
+exactly right. If you can upsell, you
+
+
+know, 20, 30, 40% more by delivering
+
+
+this, you know, 100% agent, it might be
+
+
+the next most amazing company, but
+
+
+you'll cash flow positive. You'll pay
+
+
+off your debt. You'll create enterprise
+
+
+value and 5 10,000 customers aren't
+
+
+going to have to do a migration in two
+
+
+years when you file for bankruptcy. So,
+
+
+I I agree. It's a It's a bounded
+
+
+problem. It should be solvable, but it's
+
+
+not going to be in many cases.
+
+
+>> What?
+
+
+>> I'm going to ask you two questions.
+
+
+>> Oh, God. And you you got the binaries on
+
+
+them.
+
+
+>> So, who's going to go out first? Open AI
+
+
+or Anthropic?
+
+
+>> Entropic.
+
+
+>> SpaceX. An entropic. Open AI in that
+
+
+order.
+
+
+>> It appears that SpaceX has already filed
+
+
+and they're on track. So, we already
+
+
+know the answer there. The fact that
+
+
+Enthropic just added the Noardis CEO to
+
+
+the board, that's a sign they're getting
+
+
+ready to IPO as soon as they can. I
+
+
+mean, I'm sure he's going to add value
+
+
+in healthcare, but that means nothing,
+
+
+but we're trying to IPO very soon,
+
+
+right? that and finding who the hell
+
+
+will chair the audit committee are clear
+
+
+signs you're going to IPO as soon as
+
+
+possible. So given that they have that
+
+
+and OpenAI is sending out war memos. I'm
+
+
+just voting that that they go out first.
+
+
+>> Yeah, not even a difficult question.
+
+
+>> Will Sarah Fry, the CFO of Open AI be
+
+
+there when they go out? Yes or no?
+
+
+>> Look, I do know one thing. CEOs and CFOs
+
+
+have to a a have to a have to be wildly
+
+
+aligned and b the CFO should probably
+
+
+report to the CEO, right? And right now
+
+
+I believe the CFO in this case reports
+
+
+to the president VJ which seems an
+
+
+anomalous arrangement, right? And so
+
+
+maybe rather than kind of doing yeah so
+
+
+and so is in or out what I would say is
+
+
+this.
+
+
+If that IPO is going to happen and if
+
+
+this team is going to make it happen,
+
+
+then they need to be in absolute sync
+
+
+and they probably need to have a more
+
+
+traditional reporting structure so that
+
+
+people don't have one more thing to
+
+
+think about or why this company is
+
+
+weird. I mean, I always tell my CEOs up
+
+
+and down, dude, on the things where
+
+
+you're unique and different, you know,
+
+
+where you're changing the world, do it
+
+
+as different as you like, but all the
+
+
+boring stuff, just give the market what
+
+
+it wants. It wants the CEO or the CFO
+
+
+reporting to them. They want to be in
+
+
+sync. It makes everyone's head hurt if
+
+
+the CEO and CFO are saying different
+
+
+things about something as fundamental as
+
+
+where when we're going to go public that
+
+
+you know stop the leaking, stay in sync.
+
+
+If you know that's just not a thing you
+
+
+No one wants to hear that. No one wants
+
+
+to hear that because those are going to
+
+
+be the two people on the road show. They
+
+
+should be able to finish each other's
+
+
+sentence. You should be able to put them
+
+
+in separate rooms like a police
+
+
+interrogation room and each of them
+
+
+should say exactly the same thing and
+
+
+they should stick to their story. The
+
+
+idea that you have separate stories from
+
+
+the two, it's just not it's just
+
+
+palpably absurd. So rather than saying
+
+
+who's in and who's out, that's what you
+
+
+got to do. Again, back to the same
+
+
+therapist that they're using for their
+
+
+relationship with Microsoft could
+
+
+actually do some internal relationships
+
+
+too. Interesting. But I will say two
+
+
+things. One, on the one hand, in
+
+
+isolation, if I'm running something like
+
+
+any any anything at scale, but
+
+
+especially at OpenAI, I want no daylight
+
+
+between me and my top lieutenants. No
+
+
+daylight. Okay. Now, you could argue a
+
+
+CFO's job is to create a little bit of
+
+
+distance to be that objective person in
+
+
+the room and and there is some truth to
+
+
+that, right? But there can't be daylight
+
+
+or it's not going to work. So, if there
+
+
+is that daylight and it were that
+
+
+simple, you make a change and you make a
+
+
+change before the IPO so it's least
+
+
+disruptive. Now having said that if you
+
+
+are running a company at scale and there
+
+
+is already a ton of transition on the
+
+
+senior team which there has been ton of
+
+
+turnover I've seen a lot of times roles
+
+
+like CFO and others where you're like
+
+
+listen I just don't want to change one
+
+
+more thing like yeah there's some issues
+
+
+here but Sarah is so experienced that
+
+
+things work like the workday finally
+
+
+works we finally got all these things to
+
+
+work this is not I got 99 problems this
+
+
+is not one that I want to tackle so I
+
+
+have often seen something like this
+
+
+where you shouldn't have the daylight,
+
+
+but it's not it's not it's not
+
+
+poltergeistes streaming through and and
+
+
+it's just not enough of a problem. Um if
+
+
+your management team is super stable,
+
+
+you have time to work on these things.
+
+
+But sometimes islands of stability in
+
+
+your management team, even if they're
+
+
+not perfect, um it's just not worth
+
+
+another turnover on the senior team. It
+
+
+takes its every time you replace
+
+
+someone, it takes its toll on the team,
+
+
+especially if they're popular,
+
+
+especially if they're liked and
+
+
+respected. It just especially if there
+
+
+if if everyone thinks they're terrible,
+
+
+you move them out and and there's a
+
+
+there's cake and a party on Friday. But
+
+
+I wouldn't be surprised if she's pretty
+
+
+popular in her own way and it takes its
+
+
+toll. The raw ingredients of success are
+
+
+there. The war ingredients of success
+
+
+are there to have open eye be an amazing
+
+
+mega IPO just you know and I say Lily
+
+
+you get your therapist to make up with
+
+
+Microsoft. Get your therapist to make up
+
+
+get aligned with your CFO. focus on the
+
+
+two big things which are getting the ads
+
+
+product out and getting the enterprise
+
+
+cranking and stay a course you have the
+
+
+compute and get it done. If you have an
+
+
+executive that's truly arguing with the
+
+
+co in public in the media, right? Andor
+
+
+like Daario back in the day at OpenAI
+
+
+going directly to the board with
+
+
+craziness, they got to go. Like it
+
+
+doesn't matter. They got to go. They you
+
+
+cannot be out in the media arguing with
+
+
+the CEO. And you cannot be Daario, no
+
+
+matter how smart are you, going to the
+
+
+board and saying, "I will only stay at
+
+
+Open Eye if I directly report to the
+
+
+board." Like, it doesn't matter how good
+
+
+you are. And this is brutal. Sometimes
+
+
+you have to let some of your best people
+
+
+go because it's too dysfunctional. They
+
+
+got to go in those situations. Whenever
+
+
+you get a phone call as a VP from a
+
+
+board member from a VP, you're like,
+
+
+"Okay, there's a problem here." Now,
+
+
+maybe the CEO goes, maybe the VP goes,
+
+
+maybe there's a problem you can solve
+
+
+it, but you I'm not going to be as
+
+
+absolute as you got to go, but your
+
+
+antenna go up, you know, an entire notch
+
+
+when you get that call. And you're
+
+
+right, you and as for briefing, I mean,
+
+
+look, most companies aren't interesting
+
+
+enough to have a media briefing. It's
+
+
+almost like these companies have become,
+
+
+you know, political level drama. And I
+
+
+just saw a fun tweet from Martin Cassada
+
+
+was just basically saying, you know,
+
+
+enjoy all the drama, enjoy all the pity,
+
+
+backstabbing, and all that. It's because
+
+
+this is such an exciting moment that the
+
+
+media is focused on. And because they're
+
+
+focused on it, you get all this is just
+
+
+what happens when you're in the center
+
+
+of the universe in terms of tech. So
+
+
+roll with it. But you are right, Jason.
+
+
+You want to be the tightun ship in this
+
+
+sloppy sloppy world. And whatever, if
+
+
+any VPs get this far on the pod,
+
+
+whatever you do, do not reach out to
+
+
+your VCs to say there's problems with
+
+
+your CEO, you will you're losing your
+
+
+job. And not only are you losing your
+
+
+job, it doesn't matter if you're right.
+
+
+You're at some level, you're probably
+
+
+right. If you if you're a passionate VP
+
+
+and you want and you're see issues in
+
+
+the company, you reach out to Rory or
+
+
+Harry on the board, odds that you're
+
+
+100% wrong are 0%. Like you're but you
+
+
+are not going to it's not worth it. You
+
+
+are not going to what are they going to
+
+
+do? Fire the CEO over you? 0 point.
+
+
+Unless there's fraud, 0.0%. You're gone.
+
+
+You're maybe in three months or it may
+
+
+be that afternoon. You're gone. Just
+
+
+don't do it. VP, just resign. Just
+
+
+resign with grace.
+
+
+>> Yeah, it's a much longer discussion, but
+
+
+yes.
+
+
+>> What's the Shakespeare quote, Rory? The
+
+
+The world is a stage. All the world is a
+
+
+stage and it was play part. Yes.
+
+
+>> Oh, he had to finish on a Shakespeare
+
+
+quote. Incredibly cultured. Thank you so
+
+
+much, guys.

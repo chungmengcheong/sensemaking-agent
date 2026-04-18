@@ -19,7 +19,7 @@ The system should be conservative about promotion, but not conservative about no
 
 ## Active hypotheses
 
-### 1. Writing software is getting cheap and fast. The real bottlenecks move to strategic fit, distribution, and change absorption.
+### 1. Writing software is getting cheap and fast. The real bottlenecks move to distribution and change absorption.
 
 **Status:** New  
 
@@ -70,7 +70,7 @@ This also suggests AI disruption in software may run slower than many boosters e
 
 ---
 
-### 2. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if it becomes the context and harness layer for hybrid AI-human work.
+### 2. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if they become a harness for hybrid AI-human work.
 
 **Status:** Strengthening  
 
@@ -112,6 +112,7 @@ The core point is not just that AI helps software. It is that software is enteri
 - **Startup ideas**
   - Build products that become the harness layer for hybrid AI-human work in vertical workflows.
   - Look for categories where horizontal LLMs weaken incumbents but no workflow owner has clearly locked in the context layer yet.
+
 
 ---
 
@@ -271,13 +272,7 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 
 ---
 
-### 6. The first big AI revenue pools are likely to form in heavy-use enterprise workflows before broad assistant seats
-
-**Status:** New  
-
-**Why we believe this**
-
-Broad assistant seats spread usage, but they do not reliably turn into paid pull.
+### 6. The first big AI revenue pools are likely to form in heavy-use enterprise workflows before broad consumer assistant seats
 
 The clearer early monetization pattern is showing up in places where AI does expensive work again and again, touches a real operating budget, and can be judged by completed output.
 
@@ -317,6 +312,7 @@ Curated-source operator observation: In a 2026-03-27 All-In transcript, panelist
   - Build billing and cost-control layers for agentic products that need to move beyond flat-rate plans.
   - Build workflow-native AI for service firms or internal teams that want AI to complete auditable work, not just draft it.
 
+
 ---
 
 
@@ -339,7 +335,7 @@ The SEC/CFTC guidance appears important because it reduces classification uncert
 
 ---
 
-### B. Enterprise AI buying may split on trust boundaries before it splits on raw model quality
+### B. Enterprise AI buying will split on trust boundaries before it splits on raw model quality
 
 **Why it might matter**
 
