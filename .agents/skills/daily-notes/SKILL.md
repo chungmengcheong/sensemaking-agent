@@ -2,6 +2,11 @@
 name: daily-notes
 description: Update the current monthly daily notes file from Reported News and Primary Source developments. Do not use this skill for transcript interpretation or synthesis updates.
 ---
+## Invocation
+
+Use this skill only when explicitly asked to update daily notes or generate the current daily-notes entry. Do not invoke automatically for general news discussion, transcript review, or synthesis work.
+
+## Instructions
 
 Read:
 - AGENTS.md
@@ -10,7 +15,7 @@ Read:
 - the current monthly file in `notes/`
 - recent adjacent daily notes files if useful
 
-Then review the **Reported News** and any closely linked primary-source items needed to interpret the day’s developments.
+Then use `SOURCES.md` to identify the **Reported News** sources and any closely linked primary-source items needed to interpret the day’s developments.
 
 Task:
 - append one new dated entry to the current monthly file in `notes/`, in reverse chronological order (newest at top)

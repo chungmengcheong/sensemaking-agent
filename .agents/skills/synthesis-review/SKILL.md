@@ -2,6 +2,10 @@
 name: synthesis-review
 description: Review and conservatively update notes/synthesized_implications.md using the daily notes and curated transcripts. Use this when the task is to maintain sharp house views, test them against recent evidence, surface missing hypotheses, refine implications, and optionally write back concrete transcript datapoints into daily notes.
 ---
+## Invocation
+Use this skill only when explicitly asked to review or update the synthesis, process curated transcripts, test house views against recent evidence, or surface missing hypotheses.
+
+Do not invoke automatically for ordinary daily-notes updates, general news discussion, or one-off transcript summarization.
 
 ## Read (in this order):
 - AGENTS.md
